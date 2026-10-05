@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+desk-app/node_modules/
+desk-app/client/node_modules/
+desk-app/server/node_modules/
+desk-app/client/dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+npm-debug.log*
+
+# Large rebuildable API caches (JSON/CSV used by the app stay tracked)
+output/equity/cache/
+
+# Local scratch
+*.tmp
+.cursor/

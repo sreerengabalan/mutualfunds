@@ -1,0 +1,510 @@
+{
+  "coverage": {
+    "funds": 221,
+    "nav": 218,
+    "alloc": 219,
+    "ter": 81.4,
+    "roll3": 171,
+    "cagr5": 134,
+    "cagr10": 98,
+    "sectors_funds": 219
+  },
+  "by_category": [
+    {
+      "category": "flexi_cap",
+      "n": 45,
+      "med_3y": 13.95,
+      "med_5y": 12.61,
+      "med_10y": 14.02,
+      "med_roll3": 16.53,
+      "med_roll3_pos": 100.0,
+      "med_dd": -30.16,
+      "med_sharpe": 0.49,
+      "med_vol": 15.52,
+      "med_eq": 97.09,
+      "med_l": 65.7,
+      "med_m": 19.05,
+      "med_s": 14.96,
+      "med_ter": 0.96,
+      "med_top10": 36.12
+    },
+    {
+      "category": "large_cap",
+      "n": 36,
+      "med_3y": 12.48,
+      "med_5y": 11.36,
+      "med_10y": 12.73,
+      "med_roll3": 14.67,
+      "med_roll3_pos": 99.2,
+      "med_dd": -35.21,
+      "med_sharpe": 0.38,
+      "med_vol": 15.41,
+      "med_eq": 98.09,
+      "med_l": 87.89,
+      "med_m": 8.55,
+      "med_s": 2.5,
+      "med_ter": 1.06,
+      "med_top10": 47.83
+    },
+    {
+      "category": "large_mid_cap",
+      "n": 37,
+      "med_3y": 16.23,
+      "med_5y": 15.06,
+      "med_10y": 15.39,
+      "med_roll3": 17.48,
+      "med_roll3_pos": 99.0,
+      "med_dd": -36.1,
+      "med_sharpe": 0.61,
+      "med_vol": 15.82,
+      "med_eq": 97.34,
+      "med_l": 51.64,
+      "med_m": 37.99,
+      "med_s": 11.83,
+      "med_ter": null,
+      "med_top10": 31.3
+    },
+    {
+      "category": "mid_cap",
+      "n": 34,
+      "med_3y": 19.86,
+      "med_5y": 17.83,
+      "med_10y": 17.49,
+      "med_roll3": 20.24,
+      "med_roll3_pos": 99.2,
+      "med_dd": -34.09,
+      "med_sharpe": 0.88,
+      "med_vol": 16.3,
+      "med_eq": 97.27,
+      "med_l": 15.16,
+      "med_m": 67.34,
+      "med_s": 15.42,
+      "med_ter": 0.96,
+      "med_top10": 28.02
+    },
+    {
+      "category": "multi_cap",
+      "n": 33,
+      "med_3y": 16.67,
+      "med_5y": 15.61,
+      "med_10y": 15.91,
+      "med_roll3": 18.12,
+      "med_roll3_pos": 100.0,
+      "med_dd": -20.06,
+      "med_sharpe": 0.7,
+      "med_vol": 14.7,
+      "med_eq": 97.81,
+      "med_l": 43.51,
+      "med_m": 29.0,
+      "med_s": 26.91,
+      "med_ter": 0.93,
+      "med_top10": 28.17
+    },
+    {
+      "category": "small_cap",
+      "n": 36,
+      "med_3y": 17.5,
+      "med_5y": 18.54,
+      "med_10y": 17.89,
+      "med_roll3": 21.6,
+      "med_roll3_pos": 100.0,
+      "med_dd": -33.5,
+      "med_sharpe": 0.65,
+      "med_vol": 17.2,
+      "med_eq": 96.13,
+      "med_l": 4.9,
+      "med_m": 15.86,
+      "med_s": 76.99,
+      "med_ter": 0.89,
+      "med_top10": 26.82
+    }
+  ],
+  "top_roll3": [
+    {
+      "category": "flexi_cap",
+      "name": "BANK OF INDIA Flexi Cap Fund Direct Plan -Growth",
+      "roll3": 24.93,
+      "cagr5": 18.42,
+      "dd": -23.73,
+      "sharpe": 0.93,
+      "ter": 0.86,
+      "lms": [
+        44.962,
+        24.5919,
+        30.4461
+      ]
+    },
+    {
+      "category": "flexi_cap",
+      "name": "Invesco India Flexi Cap Fund - Direct Plan - Growth",
+      "roll3": 22.06,
+      "cagr5": NaN,
+      "dd": -19.4,
+      "sharpe": 0.96,
+      "ter": 0.78,
+      "lms": [
+        54.1991,
+        31.091,
+        14.7099
+      ]
+    },
+    {
+      "category": "flexi_cap",
+      "name": "quant Flexi Cap Fund - Growth Option-Direct Plan",
+      "roll3": 21.82,
+      "cagr5": 16.81,
+      "dd": -41.28,
+      "sharpe": 0.62,
+      "ter": 1.05,
+      "lms": [
+        68.2561,
+        17.894,
+        13.8498
+      ]
+    },
+    {
+      "category": "large_cap",
+      "name": "Mahindra Manulife Large Cap Fund - Direct Plan -Growth",
+      "roll3": 17.18,
+      "cagr5": 10.91,
+      "dd": -35.27,
+      "sharpe": 0.29,
+      "ter": 1.12,
+      "lms": [
+        88.2876,
+        9.5745,
+        2.1379
+      ]
+    },
+    {
+      "category": "large_cap",
+      "name": "WhiteOak Capital Large Cap Fund Direct Plan Growth",
+      "roll3": 16.75,
+      "cagr5": NaN,
+      "dd": -15.25,
+      "sharpe": 0.7,
+      "ter": 0.94,
+      "lms": [
+        87.7288,
+        8.1344,
+        4.1368
+      ]
+    },
+    {
+      "category": "large_cap",
+      "name": "Nippon India Large Cap Fund - Direct Plan Growth Plan - Bonus Option",
+      "roll3": 16.61,
+      "cagr5": 15.67,
+      "dd": -39.96,
+      "sharpe": 0.42,
+      "ter": NaN,
+      "lms": [
+        84.2159,
+        11.8099,
+        3.9742
+      ]
+    },
+    {
+      "category": "large_mid_cap",
+      "name": "Motilal Oswal Large and Midcap Fund - Direct Plan Growth",
+      "roll3": 26.63,
+      "cagr5": 20.26,
+      "dd": -37.44,
+      "sharpe": 0.91,
+      "ter": NaN,
+      "lms": [
+        35.264,
+        38.6778,
+        26.0582
+      ]
+    },
+    {
+      "category": "large_mid_cap",
+      "name": "Mahindra Manulife Large & Mid Cap Fund - Direct Plan -Growth",
+      "roll3": 21.84,
+      "cagr5": 15.06,
+      "dd": -32.9,
+      "sharpe": 0.47,
+      "ter": NaN,
+      "lms": [
+        41.005,
+        45.8465,
+        13.1485
+      ]
+    },
+    {
+      "category": "large_mid_cap",
+      "name": "Axis Large & Mid Cap Fund - Direct Plan - Growth",
+      "roll3": 21.44,
+      "cagr5": 14.56,
+      "dd": -31.87,
+      "sharpe": 0.76,
+      "ter": NaN,
+      "lms": [
+        61.5227,
+        34.8243,
+        3.6529
+      ]
+    },
+    {
+      "category": "mid_cap",
+      "name": "WhiteOak Capital Mid Cap Fund Direct Plan Growth",
+      "roll3": 26.14,
+      "cagr5": NaN,
+      "dd": -19.33,
+      "sharpe": 1.19,
+      "ter": 0.98,
+      "lms": [
+        12.615,
+        69.0141,
+        18.3709
+      ]
+    },
+    {
+      "category": "mid_cap",
+      "name": "HSBC Midcap Fund - Direct Growth",
+      "roll3": 26.08,
+      "cagr5": NaN,
+      "dd": -25.96,
+      "sharpe": 1.15,
+      "ter": 1.2,
+      "lms": [
+        24.4657,
+        69.3816,
+        6.1527
+      ]
+    },
+    {
+      "category": "mid_cap",
+      "name": "Mahindra Manulife Mid Cap Fund - Direct Plan -Growth",
+      "roll3": 25.84,
+      "cagr5": 20.16,
+      "dd": -33.1,
+      "sharpe": 0.93,
+      "ter": 0.75,
+      "lms": [
+        19.941,
+        66.5403,
+        13.5186
+      ]
+    },
+    {
+      "category": "multi_cap",
+      "name": "Kotak Multicap Fund-Direct Plan-Growth",
+      "roll3": 24.28,
+      "cagr5": NaN,
+      "dd": -21.0,
+      "sharpe": 0.83,
+      "ter": 0.68,
+      "lms": [
+        40.864,
+        32.6083,
+        26.5277
+      ]
+    },
+    {
+      "category": "multi_cap",
+      "name": "Axis Multicap Fund - Direct Growth",
+      "roll3": 22.56,
+      "cagr5": NaN,
+      "dd": -18.08,
+      "sharpe": 1.09,
+      "ter": 1.1,
+      "lms": [
+        46.6523,
+        28.0357,
+        25.3121
+      ]
+    },
+    {
+      "category": "multi_cap",
+      "name": "Mahindra Manulife Multi Cap Fund - Direct Plan -Growth",
+      "roll3": 22.0,
+      "cagr5": 17.87,
+      "dd": -34.44,
+      "sharpe": 0.75,
+      "ter": 0.96,
+      "lms": [
+        37.8788,
+        36.1561,
+        25.9651
+      ]
+    },
+    {
+      "category": "small_cap",
+      "name": "BANDHAN SMALL CAP FUND - DIRECT PLAN GROWTH",
+      "roll3": 31.22,
+      "cagr5": 20.91,
+      "dd": -24.34,
+      "sharpe": 1.21,
+      "ter": 0.58,
+      "lms": [
+        6.5362,
+        11.2974,
+        82.1664
+      ]
+    },
+    {
+      "category": "small_cap",
+      "name": "BANK OF INDIA Small Cap Fund Direct Plan Growth",
+      "roll3": 30.86,
+      "cagr5": 21.71,
+      "dd": -32.37,
+      "sharpe": 0.97,
+      "ter": 0.73,
+      "lms": [
+        3.9838,
+        20.1214,
+        75.8948
+      ]
+    },
+    {
+      "category": "small_cap",
+      "name": "Invesco India Smallcap Fund - Direct Plan - Growth",
+      "roll3": 29.05,
+      "cagr5": 21.77,
+      "dd": -37.66,
+      "sharpe": 1.02,
+      "ter": 0.64,
+      "lms": [
+        7.0563,
+        33.5353,
+        59.4084
+      ]
+    }
+  ],
+  "top_sectors": {
+    "flexi_cap": [
+      {
+        "sector": "Financial",
+        "weight_pct": 30.62
+      },
+      {
+        "sector": "Industrials",
+        "weight_pct": 14.53
+      },
+      {
+        "sector": "Consumer Discretionary",
+        "weight_pct": 13.96
+      },
+      {
+        "sector": "Technology",
+        "weight_pct": 12.19
+      },
+      {
+        "sector": "Healthcare",
+        "weight_pct": 8.71
+      }
+    ],
+    "large_cap": [
+      {
+        "sector": "Financial",
+        "weight_pct": 35.239999999999995
+      },
+      {
+        "sector": "Technology",
+        "weight_pct": 14.12
+      },
+      {
+        "sector": "Consumer Discretionary",
+        "weight_pct": 12.52
+      },
+      {
+        "sector": "Energy & Utilities",
+        "weight_pct": 8.92
+      },
+      {
+        "sector": "Industrials",
+        "weight_pct": 8.83
+      }
+    ],
+    "large_mid_cap": [
+      {
+        "sector": "Financial",
+        "weight_pct": 28.34
+      },
+      {
+        "sector": "Industrials",
+        "weight_pct": 14.205
+      },
+      {
+        "sector": "Consumer Discretionary",
+        "weight_pct": 13.27
+      },
+      {
+        "sector": "Technology",
+        "weight_pct": 10.53
+      },
+      {
+        "sector": "Healthcare",
+        "weight_pct": 9.875
+      }
+    ],
+    "mid_cap": [
+      {
+        "sector": "Financial",
+        "weight_pct": 25.75
+      },
+      {
+        "sector": "Industrials",
+        "weight_pct": 17.38
+      },
+      {
+        "sector": "Consumer Discretionary",
+        "weight_pct": 15.08
+      },
+      {
+        "sector": "Healthcare",
+        "weight_pct": 11.44
+      },
+      {
+        "sector": "Materials",
+        "weight_pct": 9.8
+      }
+    ],
+    "multi_cap": [
+      {
+        "sector": "Financial",
+        "weight_pct": 26.52
+      },
+      {
+        "sector": "Consumer Discretionary",
+        "weight_pct": 15.38
+      },
+      {
+        "sector": "Industrials",
+        "weight_pct": 15.21
+      },
+      {
+        "sector": "Technology",
+        "weight_pct": 9.88
+      },
+      {
+        "sector": "Healthcare",
+        "weight_pct": 9.69
+      }
+    ],
+    "small_cap": [
+      {
+        "sector": "Industrials",
+        "weight_pct": 22.35
+      },
+      {
+        "sector": "Consumer Discretionary",
+        "weight_pct": 18.814999999999998
+      },
+      {
+        "sector": "Financial",
+        "weight_pct": 18.065
+      },
+      {
+        "sector": "Healthcare",
+        "weight_pct": 13.175
+      },
+      {
+        "sector": "Materials",
+        "weight_pct": 12.125
+      }
+    ]
+  }
+}

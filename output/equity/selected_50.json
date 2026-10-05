@@ -1,0 +1,3452 @@
+[
+  {
+    "code": 120564,
+    "name": "Aditya Birla Sun Life Flexi Cap Fund",
+    "full": "Aditya Birla Sun Life Flexi Cap Fund - Growth - Direct Plan",
+    "house": "Aditya Birla Sun Life",
+    "cat": "flexi_cap",
+    "nav": 2236.37,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 28112.33,
+    "ter": 0.9,
+    "mgr": "Anil Shah",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1%, if redeemed within 90 days.",
+    "y1": 13.94,
+    "y3": 17.29,
+    "y5": 13.73,
+    "y10": 14.79,
+    "sip5": 7.64,
+    "r3": 16.65,
+    "r3p": 97.7,
+    "r3mn": -3.93,
+    "r5": 15.78,
+    "vol": 16.07,
+    "dd": -38.59,
+    "ddd": "2020-03-23",
+    "sh": 0.67,
+    "so": 0.81,
+    "eq": 97.64,
+    "dt": 2.36,
+    "cash": 2.36,
+    "l": 70.23,
+    "m": 17.23,
+    "sml": 12.54,
+    "t5": 18.18,
+    "t10": 28.44,
+    "hold": 85,
+    "pe": 30.18,
+    "pb": 3.9,
+    "turn": 6.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 30.3
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 15.15
+      },
+      {
+        "s": "Technology",
+        "w": 12.34
+      },
+      {
+        "s": "Materials",
+        "w": 11.09
+      },
+      {
+        "s": "Industrials",
+        "w": 10.34
+      },
+      {
+        "s": "Healthcare",
+        "w": 7.62
+      }
+    ]
+  },
+  {
+    "code": 118275,
+    "name": "CANARA ROBECO FLEXICAP FUND",
+    "full": "CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - GROWTH OPTION",
+    "house": "Canara Robeco",
+    "cat": "flexi_cap",
+    "nav": 396.5,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 13615.18,
+    "ter": 0.65,
+    "mgr": "Ravi Gopalakrishnan, Shridatta Bhandwaldar",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1% if redeemed within 1 year.",
+    "y1": 4.67,
+    "y3": 13.85,
+    "y5": 11.94,
+    "y10": 15.1,
+    "sip5": 5.85,
+    "r3": 15.29,
+    "r3p": 100.0,
+    "r3mn": 3.26,
+    "r5": 15.57,
+    "vol": 15.52,
+    "dd": -33.24,
+    "ddd": "2020-03-23",
+    "sh": 0.47,
+    "so": 0.58,
+    "eq": 95.95,
+    "dt": 4.05,
+    "cash": 4.05,
+    "l": 76.31,
+    "m": 19.6,
+    "sml": 4.09,
+    "t5": 24.29,
+    "t10": 39.01,
+    "hold": 77,
+    "pe": 28.98,
+    "pb": 4.12,
+    "turn": 15.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 32.99
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 15.71
+      },
+      {
+        "s": "Industrials",
+        "w": 13.17
+      },
+      {
+        "s": "Technology",
+        "w": 13.0
+      },
+      {
+        "s": "Healthcare",
+        "w": 7.74
+      },
+      {
+        "s": "Consumer Staples",
+        "w": 5.98
+      }
+    ]
+  },
+  {
+    "code": 119076,
+    "name": "DSP Flexi Cap Fund",
+    "full": "DSP Flexi Cap Fund - Direct Plan - Growth",
+    "house": "DSP",
+    "cat": "flexi_cap",
+    "nav": 118.54,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 12422.33,
+    "ter": 0.85,
+    "mgr": "Atul Bhole",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1% if redeemed less than 12 months",
+    "y1": 7.32,
+    "y3": 13.95,
+    "y5": 11.77,
+    "y10": 14.63,
+    "sip5": 6.18,
+    "r3": 16.18,
+    "r3p": 100.0,
+    "r3mn": 0.71,
+    "r5": 15.85,
+    "vol": 16.4,
+    "dd": -35.71,
+    "ddd": "2020-03-23",
+    "sh": 0.45,
+    "so": 0.55,
+    "eq": 95.31,
+    "dt": 4.69,
+    "cash": 4.69,
+    "l": 57.78,
+    "m": 23.94,
+    "sml": 18.27,
+    "t5": 34.47,
+    "t10": 48.55,
+    "hold": 68,
+    "pe": 22.86,
+    "pb": 3.37,
+    "turn": 45.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 45.33
+      },
+      {
+        "s": "Technology",
+        "w": 12.91
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 12.89
+      },
+      {
+        "s": "Healthcare",
+        "w": 7.38
+      },
+      {
+        "s": "Industrials",
+        "w": 6.88
+      },
+      {
+        "s": "Consumer Staples",
+        "w": 4.47
+      }
+    ]
+  },
+  {
+    "code": 118535,
+    "name": "Franklin India Flexi Cap Fund",
+    "full": "Franklin India Flexi Cap Fund - Direct - Growth",
+    "house": "Franklin Templeton",
+    "cat": "flexi_cap",
+    "nav": 1829.84,
+    "navd": "2026-08-11",
+    "yrs": 13.61,
+    "incept": "2013-01-01",
+    "aum": 19509.44,
+    "ter": 0.99,
+    "mgr": "Anand Radhakrishnan, R Janakiraman, Srikesh Nair",
+    "risk": "Very High",
+    "sip": 500.0,
+    "load": "Exit load of 1% if redeemed within 1 year",
+    "y1": 2.24,
+    "y3": 13.8,
+    "y5": 14.11,
+    "y10": 13.99,
+    "sip5": 5.99,
+    "r3": 16.71,
+    "r3p": 96.1,
+    "r3mn": -6.34,
+    "r5": 15.89,
+    "vol": 15.26,
+    "dd": -37.72,
+    "ddd": "2020-03-23",
+    "sh": 0.48,
+    "so": 0.58,
+    "eq": 94.7,
+    "dt": 5.3,
+    "cash": 5.05,
+    "l": 81.56,
+    "m": 10.12,
+    "sml": 8.32,
+    "t5": 27.85,
+    "t10": 43.42,
+    "hold": 59,
+    "pe": 24.21,
+    "pb": 3.27,
+    "turn": 7.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 30.25
+      },
+      {
+        "s": "Industrials",
+        "w": 15.27
+      },
+      {
+        "s": "Technology",
+        "w": 14.34
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 9.73
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 9.42
+      },
+      {
+        "s": "Materials",
+        "w": 7.83
+      }
+    ]
+  },
+  {
+    "code": 118955,
+    "name": "HDFC Flexi Cap Fund",
+    "full": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
+    "house": "HDFC",
+    "cat": "flexi_cap",
+    "nav": 2297.31,
+    "navd": "2026-08-11",
+    "yrs": 13.61,
+    "incept": "2013-01-01",
+    "aum": 110736.41,
+    "ter": 0.74,
+    "mgr": "Prashant Jain",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1% if redeemed within 1 year\r\n",
+    "y1": 7.17,
+    "y3": 17.79,
+    "y5": 19.0,
+    "y10": 16.66,
+    "sip5": 8.33,
+    "r3": 17.33,
+    "r3p": 94.5,
+    "r3mn": -4.85,
+    "r5": 16.66,
+    "vol": 17.13,
+    "dd": -41.84,
+    "ddd": "2020-03-23",
+    "sh": 0.66,
+    "so": 0.82,
+    "eq": 94.19,
+    "dt": 3.64,
+    "cash": 3.18,
+    "l": 84.68,
+    "m": 4.05,
+    "sml": 11.27,
+    "t5": 30.56,
+    "t10": 46.76,
+    "hold": 77,
+    "pe": 24.29,
+    "pb": 3.42,
+    "turn": 29.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 37.37
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 15.26
+      },
+      {
+        "s": "Technology",
+        "w": 12.79
+      },
+      {
+        "s": "Healthcare",
+        "w": 12.5
+      },
+      {
+        "s": "Industrials",
+        "w": 9.48
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 5.39
+      }
+    ]
+  },
+  {
+    "code": 148990,
+    "name": "ICICI Prudential Flexicap Fund",
+    "full": "ICICI Prudential Flexicap Fund - Direct Plan - Growth",
+    "house": "ICICI Prudential",
+    "cat": "flexi_cap",
+    "nav": 22.38,
+    "navd": "2026-08-11",
+    "yrs": 5.06,
+    "incept": "2021-07-19",
+    "aum": 24099.78,
+    "ter": 0.88,
+    "mgr": "Rajat Chandak",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1%, if redeemed within 1 month.",
+    "y1": 16.99,
+    "y3": 19.15,
+    "y5": 17.06,
+    "y10": null,
+    "sip5": 8.66,
+    "r3": 19.96,
+    "r3p": 100.0,
+    "r3mn": 16.36,
+    "r5": 16.55,
+    "vol": 13.59,
+    "dd": -19.71,
+    "ddd": "2025-02-28",
+    "sh": 0.93,
+    "so": 1.27,
+    "eq": 96.77,
+    "dt": 3.23,
+    "cash": 2.88,
+    "l": 66.02,
+    "m": 8.59,
+    "sml": 25.4,
+    "t5": 30.86,
+    "t10": 45.96,
+    "hold": 79,
+    "pe": 33.16,
+    "pb": 4.98,
+    "turn": 26.0,
+    "sec": [
+      {
+        "s": "Consumer Discretionary",
+        "w": 37.55
+      },
+      {
+        "s": "Financial",
+        "w": 22.47
+      },
+      {
+        "s": "Industrials",
+        "w": 16.22
+      },
+      {
+        "s": "Technology",
+        "w": 10.44
+      },
+      {
+        "s": "Consumer Staples",
+        "w": 6.16
+      },
+      {
+        "s": "Materials",
+        "w": 3.46
+      }
+    ]
+  },
+  {
+    "code": 149763,
+    "name": "Invesco India Flexi Cap Fund",
+    "full": "Invesco India Flexi Cap Fund - Direct Plan - Growth",
+    "house": "Invesco",
+    "cat": "flexi_cap",
+    "nav": 21.29,
+    "navd": "2026-08-11",
+    "yrs": 4.48,
+    "incept": "2022-02-16",
+    "aum": 5467.9,
+    "ter": 0.78,
+    "mgr": "Taher Badshah",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load for units in excess of 10% of the investment,1% will be charged for redemption w",
+    "y1": 7.04,
+    "y3": 20.46,
+    "y5": null,
+    "y10": null,
+    "sip5": null,
+    "r3": 22.06,
+    "r3p": 100.0,
+    "r3mn": 17.15,
+    "r5": null,
+    "vol": 14.49,
+    "dd": -19.4,
+    "ddd": "2025-02-28",
+    "sh": 0.96,
+    "so": 1.27,
+    "eq": 96.05,
+    "dt": 3.08,
+    "cash": 3.08,
+    "l": 54.2,
+    "m": 31.09,
+    "sml": 14.71,
+    "t5": 19.43,
+    "t10": 32.44,
+    "hold": 72,
+    "pe": 40.98,
+    "pb": 6.25,
+    "turn": 33.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 30.17
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 19.35
+      },
+      {
+        "s": "Industrials",
+        "w": 16.1
+      },
+      {
+        "s": "Technology",
+        "w": 13.2
+      },
+      {
+        "s": "Healthcare",
+        "w": 12.38
+      },
+      {
+        "s": "Real Estate",
+        "w": 3.72
+      }
+    ]
+  },
+  {
+    "code": 122639,
+    "name": "Parag Parikh Flexi Cap Fund",
+    "full": "Parag Parikh Flexi Cap Fund - Direct Plan - Growth",
+    "house": "PPFAS",
+    "cat": "flexi_cap",
+    "nav": 92.15,
+    "navd": "2026-08-11",
+    "yrs": 13.2,
+    "incept": "2013-05-28",
+    "aum": 148429.0,
+    "ter": 0.68,
+    "mgr": "Raunak Onkar, Rajeev Thakkar, Raj Mehta",
+    "risk": "Very High",
+    "sip": 1000.0,
+    "load": "For units above 10% of the investment, exit load of 2% if redeemed within 365 days and 1% ",
+    "y1": 0.57,
+    "y3": 14.86,
+    "y5": 13.84,
+    "y10": 17.54,
+    "sip5": 6.29,
+    "r3": 19.1,
+    "r3p": 100.0,
+    "r3mn": 3.11,
+    "r5": 19.15,
+    "vol": 11.92,
+    "dd": -31.2,
+    "ddd": "2020-03-24",
+    "sh": 0.7,
+    "so": 0.88,
+    "eq": 81.19,
+    "dt": 14.74,
+    "cash": 4.69,
+    "l": 93.73,
+    "m": 2.87,
+    "sml": 3.4,
+    "t5": 31.5,
+    "t10": 52.17,
+    "hold": 146,
+    "pe": 16.47,
+    "pb": 2.87,
+    "turn": 30.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 31.74
+      },
+      {
+        "s": "Technology",
+        "w": 27.08
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 11.26
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 9.47
+      },
+      {
+        "s": "Consumer Staples",
+        "w": 8.13
+      },
+      {
+        "s": "Materials",
+        "w": 6.71
+      }
+    ]
+  },
+  {
+    "code": 120843,
+    "name": "quant Flexi Cap Fund",
+    "full": "quant Flexi Cap Fund - Growth Option-Direct Plan",
+    "house": "quant",
+    "cat": "flexi_cap",
+    "nav": 124.03,
+    "navd": "2026-08-11",
+    "yrs": 13.59,
+    "incept": "2013-01-07",
+    "aum": 7261.61,
+    "ter": 1.05,
+    "mgr": "Sanjeev Sharma, Shamil Mehra",
+    "risk": "Very High",
+    "sip": 250.0,
+    "load": "Exit load of 1%, if redeemed within 15 days.",
+    "y1": 19.38,
+    "y3": 17.72,
+    "y5": 16.81,
+    "y10": 19.98,
+    "sip5": 8.18,
+    "r3": 21.82,
+    "r3p": 96.9,
+    "r3mn": -5.49,
+    "r5": 21.44,
+    "vol": 18.13,
+    "dd": -41.28,
+    "ddd": "2020-03-23",
+    "sh": 0.62,
+    "so": 0.79,
+    "eq": 98.75,
+    "dt": 1.13,
+    "cash": -3.59,
+    "l": 68.26,
+    "m": 17.89,
+    "sml": 13.85,
+    "t5": 45.88,
+    "t10": 70.15,
+    "hold": 47,
+    "pe": 34.21,
+    "pb": 3.74,
+    "turn": 0.0,
+    "sec": [
+      {
+        "s": "Energy & Utilities",
+        "w": 23.33
+      },
+      {
+        "s": "Technology",
+        "w": 17.65
+      },
+      {
+        "s": "Financial",
+        "w": 16.85
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 14.13
+      },
+      {
+        "s": "Healthcare",
+        "w": 10.57
+      },
+      {
+        "s": "Materials",
+        "w": 9.54
+      }
+    ]
+  },
+  {
+    "code": 120465,
+    "name": "Axis Large Cap Fund",
+    "full": "Axis Large Cap Fund - Direct Plan - Growth",
+    "house": "Axis",
+    "cat": "large_cap",
+    "nav": 71.19,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 31631.85,
+    "ter": 0.99,
+    "mgr": "Shreyash Devalkar",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Nil",
+    "y1": 3.79,
+    "y3": 11.29,
+    "y5": 8.2,
+    "y10": 13.14,
+    "sip5": 4.28,
+    "r3": 14.08,
+    "r3p": 100.0,
+    "r3mn": 8.14,
+    "r5": 14.48,
+    "vol": null,
+    "dd": -100.0,
+    "ddd": "2013-04-07",
+    "sh": null,
+    "so": 0.11,
+    "eq": 96.49,
+    "dt": 3.51,
+    "cash": -0.8,
+    "l": 99.6,
+    "m": 0.4,
+    "sml": 0.0,
+    "t5": 31.83,
+    "t10": 49.29,
+    "hold": 50,
+    "pe": 28.15,
+    "pb": 4.09,
+    "turn": 23.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 35.77
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 15.74
+      },
+      {
+        "s": "Technology",
+        "w": 14.06
+      },
+      {
+        "s": "Healthcare",
+        "w": 11.99
+      },
+      {
+        "s": "Industrials",
+        "w": 8.54
+      },
+      {
+        "s": "Materials",
+        "w": 5.94
+      }
+    ]
+  },
+  {
+    "code": 118269,
+    "name": "CANARA ROBECO LARGE CAP FUND",
+    "full": "CANARA ROBECO LARGE CAP FUND - DIRECT PLAN - GROWTH OPTION",
+    "house": "Canara Robeco",
+    "cat": "large_cap",
+    "nav": 73.58,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 17135.79,
+    "ter": 0.61,
+    "mgr": "Ravi Gopalakrishnan, Shridatta Bhandwaldar",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1% if redeemed within 1 year.\r\n",
+    "y1": 2.29,
+    "y3": 12.59,
+    "y5": 11.27,
+    "y10": 14.53,
+    "sip5": 5.29,
+    "r3": 15.43,
+    "r3p": 100.0,
+    "r3mn": 3.96,
+    "r5": 15.65,
+    "vol": 15.28,
+    "dd": -32.56,
+    "ddd": "2020-03-23",
+    "sh": 0.4,
+    "so": 0.5,
+    "eq": 97.62,
+    "dt": 2.38,
+    "cash": 2.38,
+    "l": 93.94,
+    "m": 6.06,
+    "sml": 0.0,
+    "t5": 30.77,
+    "t10": 48.14,
+    "hold": 62,
+    "pe": 25.2,
+    "pb": 3.61,
+    "turn": 16.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 36.45
+      },
+      {
+        "s": "Technology",
+        "w": 14.84
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 13.0
+      },
+      {
+        "s": "Industrials",
+        "w": 9.14
+      },
+      {
+        "s": "Consumer Staples",
+        "w": 7.54
+      },
+      {
+        "s": "Healthcare",
+        "w": 7.05
+      }
+    ]
+  },
+  {
+    "code": 119018,
+    "name": "HDFC Large Cap Fund",
+    "full": "HDFC Large Cap Fund - Growth Option - Direct Plan",
+    "house": "HDFC",
+    "cat": "large_cap",
+    "nav": 1249.68,
+    "navd": "2026-08-11",
+    "yrs": 13.61,
+    "incept": "2013-01-01",
+    "aum": 40197.89,
+    "ter": 1.02,
+    "mgr": "Prashant Jain",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1% if redeemed within 1 year",
+    "y1": 3.18,
+    "y3": 11.44,
+    "y5": 13.07,
+    "y10": 13.15,
+    "sip5": 5.28,
+    "r3": 14.51,
+    "r3p": 95.3,
+    "r3mn": -4.33,
+    "r5": 14.08,
+    "vol": 17.03,
+    "dd": -40.81,
+    "ddd": "2020-03-23",
+    "sh": 0.29,
+    "so": 0.37,
+    "eq": 96.26,
+    "dt": 3.74,
+    "cash": 3.26,
+    "l": 94.8,
+    "m": 5.2,
+    "sml": 0.0,
+    "t5": 33.73,
+    "t10": 51.7,
+    "hold": 47,
+    "pe": 23.72,
+    "pb": 3.42,
+    "turn": 18.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 39.15
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 13.18
+      },
+      {
+        "s": "Technology",
+        "w": 12.64
+      },
+      {
+        "s": "Healthcare",
+        "w": 10.71
+      },
+      {
+        "s": "Industrials",
+        "w": 7.83
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 7.05
+      }
+    ]
+  },
+  {
+    "code": 120586,
+    "name": "ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)",
+    "full": "ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth",
+    "house": "ICICI Prudential",
+    "cat": "large_cap",
+    "nav": 121.67,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 80960.34,
+    "ter": 1.0,
+    "mgr": "S Naren, Rajat Chandak",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1%, if redeemed within 1 month.",
+    "y1": 1.71,
+    "y3": 13.33,
+    "y5": 13.33,
+    "y10": 14.16,
+    "sip5": 5.69,
+    "r3": 15.75,
+    "r3p": 99.2,
+    "r3mn": -1.71,
+    "r5": 15.38,
+    "vol": 15.26,
+    "dd": -37.3,
+    "ddd": "2020-03-23",
+    "sh": 0.45,
+    "so": 0.56,
+    "eq": 94.1,
+    "dt": 5.9,
+    "cash": 3.12,
+    "l": 90.32,
+    "m": 9.48,
+    "sml": 0.2,
+    "t5": 32.07,
+    "t10": 49.55,
+    "hold": 97,
+    "pe": 21.46,
+    "pb": 3.17,
+    "turn": 51.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 32.15
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 13.61
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 11.77
+      },
+      {
+        "s": "Technology",
+        "w": 10.25
+      },
+      {
+        "s": "Industrials",
+        "w": 9.68
+      },
+      {
+        "s": "Materials",
+        "w": 8.88
+      }
+    ]
+  },
+  {
+    "code": 120152,
+    "name": "Kotak Large Cap Fund",
+    "full": "Kotak Large Cap  Fund - Growth - Direct",
+    "house": "Kotak Mahindra",
+    "cat": "large_cap",
+    "nav": 669.83,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 11028.06,
+    "ter": 0.76,
+    "mgr": "Harish Krishnan",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load for units in excess of 10% of the investment,1% will be charged for redemption w",
+    "y1": 3.5,
+    "y3": 12.55,
+    "y5": 11.58,
+    "y10": 13.36,
+    "sip5": 5.35,
+    "r3": 15.04,
+    "r3p": 99.2,
+    "r3mn": -1.09,
+    "r5": 14.83,
+    "vol": 15.72,
+    "dd": -36.94,
+    "ddd": "2020-03-23",
+    "sh": 0.38,
+    "so": 0.48,
+    "eq": 98.11,
+    "dt": 1.89,
+    "cash": 0.68,
+    "l": 86.13,
+    "m": 8.97,
+    "sml": 4.9,
+    "t5": 29.41,
+    "t10": 46.69,
+    "hold": 66,
+    "pe": 23.19,
+    "pb": 3.21,
+    "turn": 36.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 32.53
+      },
+      {
+        "s": "Technology",
+        "w": 12.47
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 10.85
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 10.58
+      },
+      {
+        "s": "Materials",
+        "w": 10.19
+      },
+      {
+        "s": "Industrials",
+        "w": 10.15
+      }
+    ]
+  },
+  {
+    "code": 118825,
+    "name": "Mirae Asset Large Cap Fund",
+    "full": "Mirae Asset Large Cap Fund - Direct Plan - Growth",
+    "house": "Mirae Asset",
+    "cat": "large_cap",
+    "nav": 130.21,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 38728.9,
+    "ter": 0.75,
+    "mgr": "Neelesh Surana, Harshad Borawake",
+    "risk": "Very High",
+    "sip": 99.0,
+    "load": "Exit load of 1% if redeemed within 1 year",
+    "y1": 3.95,
+    "y3": 10.79,
+    "y5": 10.23,
+    "y10": 13.46,
+    "sip5": 4.81,
+    "r3": 15.77,
+    "r3p": 100.0,
+    "r3mn": 0.02,
+    "r5": 15.52,
+    "vol": 15.8,
+    "dd": -37.44,
+    "ddd": "2020-03-23",
+    "sh": 0.27,
+    "so": 0.33,
+    "eq": 98.24,
+    "dt": 1.76,
+    "cash": 1.59,
+    "l": 86.53,
+    "m": 7.69,
+    "sml": 5.79,
+    "t5": 32.13,
+    "t10": 47.69,
+    "hold": 83,
+    "pe": 23.24,
+    "pb": 3.27,
+    "turn": 20.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 34.94
+      },
+      {
+        "s": "Technology",
+        "w": 15.37
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 11.57
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 10.07
+      },
+      {
+        "s": "Industrials",
+        "w": 8.24
+      },
+      {
+        "s": "Materials",
+        "w": 7.82
+      }
+    ]
+  },
+  {
+    "code": 118632,
+    "name": "Nippon India Large Cap Fund Growth Plan",
+    "full": "Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option",
+    "house": "Nippon India",
+    "cat": "large_cap",
+    "nav": 102.73,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 54224.57,
+    "ter": 0.87,
+    "mgr": "Ashwani Kumar, Sailesh Raj Bhan",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1% if redeemed within 7 days.",
+    "y1": 2.82,
+    "y3": 13.46,
+    "y5": 15.67,
+    "y10": 15.06,
+    "sip5": 6.5,
+    "r3": 16.61,
+    "r3p": 95.3,
+    "r3mn": -3.47,
+    "r5": 15.98,
+    "vol": 16.64,
+    "dd": -39.96,
+    "ddd": "2020-03-23",
+    "sh": 0.42,
+    "so": 0.52,
+    "eq": 98.66,
+    "dt": 1.34,
+    "cash": 1.33,
+    "l": 84.22,
+    "m": 11.81,
+    "sml": 3.97,
+    "t5": 31.59,
+    "t10": 45.75,
+    "hold": 67,
+    "pe": 24.26,
+    "pb": 3.61,
+    "turn": 70.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 34.48
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 14.6
+      },
+      {
+        "s": "Consumer Staples",
+        "w": 12.21
+      },
+      {
+        "s": "Technology",
+        "w": 11.99
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 8.92
+      },
+      {
+        "s": "Healthcare",
+        "w": 7.5
+      }
+    ]
+  },
+  {
+    "code": 119598,
+    "name": "SBI Large Cap FUND",
+    "full": "SBI Large Cap FUND-DIRECT PLAN -GROWTH",
+    "house": "SBI",
+    "cat": "large_cap",
+    "nav": 105.85,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 55430.75,
+    "ter": 0.84,
+    "mgr": "Sohini Andani",
+    "risk": "Very High",
+    "sip": 500.0,
+    "load": "Exit load of 0.25% if redeemed within 30 days and 0.10% if redeemed after 30 days but on o",
+    "y1": 5.16,
+    "y3": 11.27,
+    "y5": 11.34,
+    "y10": 12.55,
+    "sip5": 5.18,
+    "r3": 15.03,
+    "r3p": 98.4,
+    "r3mn": -3.03,
+    "r5": 14.53,
+    "vol": 15.29,
+    "dd": -37.08,
+    "ddd": "2020-03-23",
+    "sh": 0.31,
+    "so": 0.38,
+    "eq": 97.55,
+    "dt": 2.45,
+    "cash": 1.7,
+    "l": 88.64,
+    "m": 9.63,
+    "sml": 1.73,
+    "t5": 31.86,
+    "t10": 48.31,
+    "hold": 59,
+    "pe": 26.46,
+    "pb": 3.7,
+    "turn": 8.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 34.7
+      },
+      {
+        "s": "Industrials",
+        "w": 14.18
+      },
+      {
+        "s": "Materials",
+        "w": 12.58
+      },
+      {
+        "s": "Technology",
+        "w": 10.13
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 7.99
+      },
+      {
+        "s": "Healthcare",
+        "w": 7.09
+      }
+    ]
+  },
+  {
+    "code": 118419,
+    "name": "Bandhan Large & Mid Cap Fund",
+    "full": "Bandhan Large & Mid Cap Fund - Direct Plan - Growth",
+    "house": "Bandhan",
+    "cat": "large_mid_cap",
+    "nav": 167.66,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 19777.42,
+    "ter": null,
+    "mgr": null,
+    "risk": null,
+    "sip": null,
+    "load": null,
+    "y1": 9.22,
+    "y3": 20.23,
+    "y5": 18.25,
+    "y10": 16.69,
+    "sip5": 9.0,
+    "r3": 17.48,
+    "r3p": 96.1,
+    "r3mn": -4.99,
+    "r5": 16.53,
+    "vol": 15.84,
+    "dd": -38.54,
+    "ddd": "2020-03-23",
+    "sh": 0.87,
+    "so": 1.04,
+    "eq": 94.2,
+    "dt": 5.81,
+    "cash": 5.52,
+    "l": 45.17,
+    "m": 33.1,
+    "sml": 21.73,
+    "t5": 18.5,
+    "t10": 29.62,
+    "hold": 132,
+    "pe": 21.75,
+    "pb": 2.8,
+    "turn": 18.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 36.09
+      },
+      {
+        "s": "Industrials",
+        "w": 14.61
+      },
+      {
+        "s": "Technology",
+        "w": 13.05
+      },
+      {
+        "s": "Healthcare",
+        "w": 9.72
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 7.88
+      },
+      {
+        "s": "Materials",
+        "w": 6.05
+      }
+    ]
+  },
+  {
+    "code": 118278,
+    "name": "CANARA ROBECO LARGE AND MID CAP FUND",
+    "full": "CANARA ROBECO LARGE AND MID CAP FUND - DIRECT PLAN - GROWTH OPTION",
+    "house": "Canara Robeco",
+    "cat": "large_mid_cap",
+    "nav": 303.09,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 26062.03,
+    "ter": null,
+    "mgr": null,
+    "risk": null,
+    "sip": null,
+    "load": null,
+    "y1": 4.28,
+    "y3": 14.96,
+    "y5": 12.87,
+    "y10": 16.02,
+    "sip5": 6.29,
+    "r3": 19.99,
+    "r3p": 99.2,
+    "r3mn": -0.26,
+    "r5": 19.0,
+    "vol": 16.42,
+    "dd": -36.2,
+    "ddd": "2020-03-23",
+    "sh": 0.52,
+    "so": 0.61,
+    "eq": 96.93,
+    "dt": 3.07,
+    "cash": 3.07,
+    "l": 46.07,
+    "m": 40.24,
+    "sml": 13.68,
+    "t5": 22.15,
+    "t10": 36.27,
+    "hold": 92,
+    "pe": 35.01,
+    "pb": 5.12,
+    "turn": 22.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 26.99
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 24.69
+      },
+      {
+        "s": "Technology",
+        "w": 11.76
+      },
+      {
+        "s": "Industrials",
+        "w": 10.74
+      },
+      {
+        "s": "Healthcare",
+        "w": 7.25
+      },
+      {
+        "s": "Materials",
+        "w": 7.1
+      }
+    ]
+  },
+  {
+    "code": 119218,
+    "name": "DSP Large & Mid Cap Fund",
+    "full": "DSP Large & Mid Cap Fund - Direct Plan - Growth",
+    "house": "DSP",
+    "cat": "large_mid_cap",
+    "nav": 709.54,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 18231.38,
+    "ter": null,
+    "mgr": null,
+    "risk": null,
+    "sip": null,
+    "load": null,
+    "y1": 5.86,
+    "y3": 16.03,
+    "y5": 13.74,
+    "y10": 15.21,
+    "sip5": 6.95,
+    "r3": 17.53,
+    "r3p": 98.4,
+    "r3mn": -3.1,
+    "r5": 16.63,
+    "vol": 15.96,
+    "dd": -36.75,
+    "ddd": "2020-03-23",
+    "sh": 0.6,
+    "so": 0.73,
+    "eq": 98.42,
+    "dt": 1.58,
+    "cash": 1.58,
+    "l": 54.1,
+    "m": 34.06,
+    "sml": 11.83,
+    "t5": 30.52,
+    "t10": 40.8,
+    "hold": 74,
+    "pe": 22.19,
+    "pb": 3.0,
+    "turn": 64.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 40.47
+      },
+      {
+        "s": "Technology",
+        "w": 11.27
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 10.52
+      },
+      {
+        "s": "Materials",
+        "w": 10.02
+      },
+      {
+        "s": "Healthcare",
+        "w": 9.31
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 7.56
+      }
+    ]
+  },
+  {
+    "code": 120596,
+    "name": "ICICI Prudential Large & Mid Cap Fund",
+    "full": "ICICI Prudential Large & Mid Cap Fund - Direct Plan - Growth",
+    "house": "ICICI Prudential",
+    "cat": "large_mid_cap",
+    "nav": 1203.01,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 32706.25,
+    "ter": null,
+    "mgr": null,
+    "risk": null,
+    "sip": null,
+    "load": null,
+    "y1": 10.99,
+    "y3": 18.18,
+    "y5": 18.47,
+    "y10": 16.36,
+    "sip5": 8.31,
+    "r3": 17.09,
+    "r3p": 95.3,
+    "r3mn": -6.48,
+    "r5": 16.44,
+    "vol": 15.29,
+    "dd": -37.42,
+    "ddd": "2020-03-23",
+    "sh": 0.76,
+    "so": 0.94,
+    "eq": 98.13,
+    "dt": 1.87,
+    "cash": 1.5,
+    "l": 48.53,
+    "m": 37.14,
+    "sml": 14.33,
+    "t5": 18.19,
+    "t10": 30.97,
+    "hold": 115,
+    "pe": 23.55,
+    "pb": 3.62,
+    "turn": 98.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 27.14
+      },
+      {
+        "s": "Industrials",
+        "w": 20.45
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 19.45
+      },
+      {
+        "s": "Materials",
+        "w": 19.21
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 6.29
+      },
+      {
+        "s": "Real Estate",
+        "w": 3.01
+      }
+    ]
+  },
+  {
+    "code": 120357,
+    "name": "Invesco India Large & Mid Cap Fund",
+    "full": "Invesco India Large & Mid Cap Fund - Direct Plan - Growth",
+    "house": "Invesco",
+    "cat": "large_mid_cap",
+    "nav": 133.65,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 11746.4,
+    "ter": null,
+    "mgr": null,
+    "risk": null,
+    "sip": null,
+    "load": null,
+    "y1": 12.41,
+    "y3": 25.09,
+    "y5": 18.98,
+    "y10": 17.75,
+    "sip5": 10.76,
+    "r3": 17.89,
+    "r3p": 100.0,
+    "r3mn": 1.99,
+    "r5": 17.08,
+    "vol": 15.86,
+    "dd": -35.31,
+    "ddd": "2020-03-23",
+    "sh": 1.17,
+    "so": 1.44,
+    "eq": 97.11,
+    "dt": 2.89,
+    "cash": 2.89,
+    "l": 38.84,
+    "m": 44.22,
+    "sml": 16.94,
+    "t5": 33.55,
+    "t10": 53.42,
+    "hold": 43,
+    "pe": 45.31,
+    "pb": 5.3,
+    "turn": 40.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 26.15
+      },
+      {
+        "s": "Healthcare",
+        "w": 19.99
+      },
+      {
+        "s": "Technology",
+        "w": 13.88
+      },
+      {
+        "s": "Industrials",
+        "w": 13.52
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 11.5
+      },
+      {
+        "s": "Real Estate",
+        "w": 7.77
+      }
+    ]
+  },
+  {
+    "code": 118834,
+    "name": "Mirae Asset Large & Midcap Fund",
+    "full": "Mirae Asset Large & Midcap Fund - Direct Plan - Growth",
+    "house": "Mirae Asset",
+    "cat": "large_mid_cap",
+    "nav": 181.63,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 45275.31,
+    "ter": null,
+    "mgr": null,
+    "risk": null,
+    "sip": null,
+    "load": null,
+    "y1": 9.97,
+    "y3": 14.56,
+    "y5": 12.8,
+    "y10": 17.3,
+    "sip5": 6.58,
+    "r3": 21.43,
+    "r3p": 100.0,
+    "r3mn": 0.62,
+    "r5": 20.53,
+    "vol": 16.13,
+    "dd": -36.87,
+    "ddd": "2020-03-23",
+    "sh": 0.5,
+    "so": 0.59,
+    "eq": 98.48,
+    "dt": 1.52,
+    "cash": 1.35,
+    "l": 51.94,
+    "m": 34.55,
+    "sml": 13.52,
+    "t5": 20.06,
+    "t10": 31.56,
+    "hold": 86,
+    "pe": 23.26,
+    "pb": 3.27,
+    "turn": 63.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 30.84
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 13.97
+      },
+      {
+        "s": "Healthcare",
+        "w": 11.79
+      },
+      {
+        "s": "Industrials",
+        "w": 11.05
+      },
+      {
+        "s": "Materials",
+        "w": 10.73
+      },
+      {
+        "s": "Technology",
+        "w": 10.53
+      }
+    ]
+  },
+  {
+    "code": 147704,
+    "name": "Motilal Oswal Large and Midcap Fund",
+    "full": "Motilal Oswal Large and Midcap Fund - Direct Plan Growth",
+    "house": "Motilal Oswal",
+    "cat": "large_mid_cap",
+    "nav": 40.6,
+    "navd": "2026-08-11",
+    "yrs": 6.8,
+    "incept": "2019-10-22",
+    "aum": 18444.81,
+    "ter": null,
+    "mgr": null,
+    "risk": null,
+    "sip": null,
+    "load": null,
+    "y1": 13.21,
+    "y3": 24.12,
+    "y5": 20.26,
+    "y10": null,
+    "sip5": 10.86,
+    "r3": 26.63,
+    "r3p": 100.0,
+    "r3mn": 16.61,
+    "r5": 25.91,
+    "vol": 19.47,
+    "dd": -37.44,
+    "ddd": "2020-03-23",
+    "sh": 0.91,
+    "so": 1.02,
+    "eq": 99.4,
+    "dt": 0.61,
+    "cash": 0.6,
+    "l": 35.26,
+    "m": 38.68,
+    "sml": 26.06,
+    "t5": 23.36,
+    "t10": 43.76,
+    "hold": 31,
+    "pe": 43.49,
+    "pb": 6.71,
+    "turn": 13.0,
+    "sec": [
+      {
+        "s": "Industrials",
+        "w": 21.5
+      },
+      {
+        "s": "Financial",
+        "w": 20.99
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 16.69
+      },
+      {
+        "s": "Materials",
+        "w": 12.7
+      },
+      {
+        "s": "Technology",
+        "w": 11.43
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 7.11
+      }
+    ]
+  },
+  {
+    "code": 119721,
+    "name": "SBI LARGE & MIDCAP FUND",
+    "full": "SBI LARGE & MIDCAP FUND -DIRECT PLAN -Growth",
+    "house": "SBI",
+    "cat": "large_mid_cap",
+    "nav": 725.88,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 42325.05,
+    "ter": null,
+    "mgr": null,
+    "risk": null,
+    "sip": null,
+    "load": null,
+    "y1": 9.45,
+    "y3": 15.08,
+    "y5": 15.35,
+    "y10": 15.46,
+    "sip5": 7.19,
+    "r3": 17.23,
+    "r3p": 98.4,
+    "r3mn": -3.06,
+    "r5": 16.7,
+    "vol": 15.05,
+    "dd": -36.43,
+    "ddd": "2020-03-23",
+    "sh": 0.57,
+    "so": 0.68,
+    "eq": 99.11,
+    "dt": 0.89,
+    "cash": 0.22,
+    "l": 47.49,
+    "m": 37.44,
+    "sml": 15.07,
+    "t5": 20.46,
+    "t10": 32.4,
+    "hold": 89,
+    "pe": 27.51,
+    "pb": 3.71,
+    "turn": 72.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 22.66
+      },
+      {
+        "s": "Materials",
+        "w": 15.68
+      },
+      {
+        "s": "Healthcare",
+        "w": 13.8
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 12.97
+      },
+      {
+        "s": "Industrials",
+        "w": 11.54
+      },
+      {
+        "s": "Technology",
+        "w": 10.31
+      }
+    ]
+  },
+  {
+    "code": 120505,
+    "name": "Axis Midcap Fund",
+    "full": "Axis Midcap Fund - Direct Plan - Growth",
+    "house": "Axis",
+    "cat": "mid_cap",
+    "nav": 144.07,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 34403.73,
+    "ter": 0.86,
+    "mgr": "Shreyash Devalkar",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption w",
+    "y1": 10.76,
+    "y3": 18.55,
+    "y5": 15.39,
+    "y10": 18.15,
+    "sip5": 8.06,
+    "r3": 19.42,
+    "r3p": 100.0,
+    "r3mn": 6.69,
+    "r5": 19.34,
+    "vol": null,
+    "dd": -100.0,
+    "ddd": "2013-04-07",
+    "sh": null,
+    "so": 0.27,
+    "eq": 90.53,
+    "dt": 9.47,
+    "cash": -0.35,
+    "l": 22.67,
+    "m": 72.92,
+    "sml": 4.41,
+    "t5": 28.41,
+    "t10": 39.17,
+    "hold": 88,
+    "pe": 43.03,
+    "pb": 5.71,
+    "turn": 12.0,
+    "sec": [
+      {
+        "s": "Consumer Discretionary",
+        "w": 22.3
+      },
+      {
+        "s": "Financial",
+        "w": 21.6
+      },
+      {
+        "s": "Industrials",
+        "w": 13.35
+      },
+      {
+        "s": "Healthcare",
+        "w": 10.93
+      },
+      {
+        "s": "Materials",
+        "w": 9.86
+      },
+      {
+        "s": "Technology",
+        "w": 6.98
+      }
+    ]
+  },
+  {
+    "code": 140228,
+    "name": "Edelweiss Mid Cap Fund",
+    "full": "Edelweiss Mid Cap Fund - Direct Plan - Growth Option",
+    "house": "Edelweiss",
+    "cat": "mid_cap",
+    "nav": 129.95,
+    "navd": "2026-08-11",
+    "yrs": 9.7,
+    "incept": "2016-11-28",
+    "aum": 18693.49,
+    "ter": 0.72,
+    "mgr": "Harshad Patwardhan",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1%, if redeemed within 90 days.",
+    "y1": 12.5,
+    "y3": 23.63,
+    "y5": 20.31,
+    "y10": null,
+    "sip5": 10.34,
+    "r3": 22.63,
+    "r3p": 96.3,
+    "r3mn": -3.3,
+    "r5": 23.65,
+    "vol": 17.22,
+    "dd": -39.21,
+    "ddd": "2020-03-23",
+    "sh": 0.99,
+    "so": 1.17,
+    "eq": 96.74,
+    "dt": 3.26,
+    "cash": 0.22,
+    "l": 21.69,
+    "m": 67.09,
+    "sml": 11.22,
+    "t5": 14.55,
+    "t10": 24.28,
+    "hold": 95,
+    "pe": 31.82,
+    "pb": 4.57,
+    "turn": 40.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 28.98
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 16.63
+      },
+      {
+        "s": "Industrials",
+        "w": 13.76
+      },
+      {
+        "s": "Healthcare",
+        "w": 9.96
+      },
+      {
+        "s": "Materials",
+        "w": 9.29
+      },
+      {
+        "s": "Technology",
+        "w": 7.69
+      }
+    ]
+  },
+  {
+    "code": 118989,
+    "name": "HDFC Mid Cap Fund",
+    "full": "HDFC Mid Cap Fund - Growth Option - Direct Plan",
+    "house": "HDFC",
+    "cat": "mid_cap",
+    "nav": 237.1,
+    "navd": "2026-08-11",
+    "yrs": 13.61,
+    "incept": "2013-01-01",
+    "aum": 105142.69,
+    "ter": 0.75,
+    "mgr": "Chirag Setalvad",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1% if redeemed within 1 year.",
+    "y1": 13.01,
+    "y3": 20.43,
+    "y5": 21.24,
+    "y10": 18.31,
+    "sip5": 10.14,
+    "r3": 21.19,
+    "r3p": 95.3,
+    "r3mn": -6.96,
+    "r5": 19.54,
+    "vol": 15.64,
+    "dd": -39.51,
+    "ddd": "2020-03-23",
+    "sh": 0.89,
+    "so": 1.05,
+    "eq": 93.08,
+    "dt": 6.94,
+    "cash": 6.92,
+    "l": 10.61,
+    "m": 66.77,
+    "sml": 22.62,
+    "t5": 23.57,
+    "t10": 38.24,
+    "hold": 78,
+    "pe": 28.83,
+    "pb": 3.48,
+    "turn": 13.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 29.29
+      },
+      {
+        "s": "Healthcare",
+        "w": 15.44
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 14.04
+      },
+      {
+        "s": "Technology",
+        "w": 12.11
+      },
+      {
+        "s": "Consumer Staples",
+        "w": 10.39
+      },
+      {
+        "s": "Industrials",
+        "w": 9.27
+      }
+    ]
+  },
+  {
+    "code": 120403,
+    "name": "Invesco India Midcap Fund",
+    "full": "Invesco India Midcap Fund - Direct Plan - Growth Option",
+    "house": "Invesco",
+    "cat": "mid_cap",
+    "nav": 243.34,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 14721.45,
+    "ter": 0.77,
+    "mgr": "Vinay Paharia",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load for units in excess of 10% of the investment, 1% will be charged for redemption ",
+    "y1": 13.42,
+    "y3": 26.01,
+    "y5": 21.44,
+    "y10": 20.15,
+    "sip5": 11.67,
+    "r3": 21.4,
+    "r3p": 99.2,
+    "r3mn": -0.03,
+    "r5": 20.29,
+    "vol": 16.14,
+    "dd": -34.09,
+    "ddd": "2020-03-23",
+    "sh": 1.21,
+    "so": 1.45,
+    "eq": 97.0,
+    "dt": 3.0,
+    "cash": 3.0,
+    "l": 18.95,
+    "m": 62.69,
+    "sml": 18.36,
+    "t5": 26.69,
+    "t10": 47.29,
+    "hold": 46,
+    "pe": 48.31,
+    "pb": 4.95,
+    "turn": 43.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 27.84
+      },
+      {
+        "s": "Healthcare",
+        "w": 20.37
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 16.93
+      },
+      {
+        "s": "Technology",
+        "w": 9.2
+      },
+      {
+        "s": "Real Estate",
+        "w": 9.03
+      },
+      {
+        "s": "Industrials",
+        "w": 7.56
+      }
+    ]
+  },
+  {
+    "code": 119775,
+    "name": "Kotak Midcap Fund",
+    "full": "Kotak Midcap Fund - Direct Plan - Growth",
+    "house": "Kotak Mahindra",
+    "cat": "mid_cap",
+    "nav": 172.8,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-03",
+    "aum": 69282.83,
+    "ter": 0.51,
+    "mgr": "Pankaj Tibrewal",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load for units in excess of 10% of the investment,1% will be charged for redemption w",
+    "y1": 11.05,
+    "y3": 20.09,
+    "y5": 18.6,
+    "y10": 18.58,
+    "sip5": 9.3,
+    "r3": 21.93,
+    "r3p": 97.7,
+    "r3mn": -4.42,
+    "r5": 20.65,
+    "vol": 15.38,
+    "dd": -35.97,
+    "ddd": "2020-03-24",
+    "sh": 0.88,
+    "so": 1.05,
+    "eq": 98.54,
+    "dt": 1.46,
+    "cash": 1.29,
+    "l": 13.73,
+    "m": 71.08,
+    "sml": 15.19,
+    "t5": 15.78,
+    "t10": 28.38,
+    "hold": 71,
+    "pe": 30.71,
+    "pb": 4.25,
+    "turn": 15.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 27.3
+      },
+      {
+        "s": "Healthcare",
+        "w": 15.85
+      },
+      {
+        "s": "Technology",
+        "w": 13.93
+      },
+      {
+        "s": "Industrials",
+        "w": 11.9
+      },
+      {
+        "s": "Materials",
+        "w": 11.6
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 9.57
+      }
+    ]
+  },
+  {
+    "code": 147445,
+    "name": "Mirae Asset Midcap Fund",
+    "full": "Mirae Asset Midcap Fund- Direct Growth Option",
+    "house": "Mirae Asset",
+    "cat": "mid_cap",
+    "nav": 44.54,
+    "navd": "2026-08-11",
+    "yrs": 7.03,
+    "incept": "2019-07-30",
+    "aum": 20267.63,
+    "ter": 0.96,
+    "mgr": "Ankit Jain",
+    "risk": "Very High",
+    "sip": 99.0,
+    "load": "Exit Load for units in excess of 15% of the investment,1% will be charged for redemption w",
+    "y1": 16.22,
+    "y3": 18.64,
+    "y5": 17.36,
+    "y10": null,
+    "sip5": 8.96,
+    "r3": 24.92,
+    "r3p": 100.0,
+    "r3mn": 14.93,
+    "r5": 25.28,
+    "vol": 18.06,
+    "dd": -37.38,
+    "ddd": "2020-03-23",
+    "sh": 0.67,
+    "so": 0.74,
+    "eq": 97.82,
+    "dt": 2.18,
+    "cash": 1.94,
+    "l": 10.5,
+    "m": 70.14,
+    "sml": 19.37,
+    "t5": 16.37,
+    "t10": 30.65,
+    "hold": 68,
+    "pe": 35.24,
+    "pb": 3.8,
+    "turn": 47.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 26.23
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 15.88
+      },
+      {
+        "s": "Industrials",
+        "w": 13.29
+      },
+      {
+        "s": "Materials",
+        "w": 13.19
+      },
+      {
+        "s": "Healthcare",
+        "w": 12.53
+      },
+      {
+        "s": "Technology",
+        "w": 9.2
+      }
+    ]
+  },
+  {
+    "code": 127042,
+    "name": "Motilal Oswal Midcap Fund",
+    "full": "Motilal Oswal Midcap Fund-Direct Plan-Growth Option",
+    "house": "Motilal Oswal",
+    "cat": "mid_cap",
+    "nav": 120.0,
+    "navd": "2026-08-11",
+    "yrs": 12.46,
+    "incept": "2014-02-25",
+    "aum": 40036.07,
+    "ter": 0.93,
+    "mgr": "Abhiroop Mukherjee, Akash Singhania, Siddharth Bothra",
+    "risk": "Very High",
+    "sip": 500.0,
+    "load": "Exit load of 1%, if redeemed within 365 days.\r\n",
+    "y1": 3.62,
+    "y3": 21.48,
+    "y5": 24.02,
+    "y10": 18.13,
+    "sip5": 9.72,
+    "r3": 20.5,
+    "r3p": 95.7,
+    "r3mn": -6.24,
+    "r5": 19.51,
+    "vol": 17.75,
+    "dd": -37.23,
+    "ddd": "2020-03-23",
+    "sh": 0.84,
+    "so": 1.03,
+    "eq": 95.87,
+    "dt": 4.13,
+    "cash": 4.13,
+    "l": 16.77,
+    "m": 83.23,
+    "sml": 0.0,
+    "t5": 31.29,
+    "t10": 53.32,
+    "hold": 31,
+    "pe": 46.41,
+    "pb": 5.51,
+    "turn": 35.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 28.85
+      },
+      {
+        "s": "Technology",
+        "w": 22.85
+      },
+      {
+        "s": "Industrials",
+        "w": 19.78
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 18.01
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 3.94
+      },
+      {
+        "s": "Real Estate",
+        "w": 2.69
+      }
+    ]
+  },
+  {
+    "code": 118668,
+    "name": "Nippon India Growth Mid Cap Fund Growth Plan",
+    "full": "Nippon India Growth Mid Cap Fund - Direct Plan Growth Plan - Growth Option",
+    "house": "Nippon India",
+    "cat": "mid_cap",
+    "nav": 5067.25,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 50750.81,
+    "ter": 0.79,
+    "mgr": "Manish Gunwani",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1% if redeemed within 1 months",
+    "y1": 13.64,
+    "y3": 21.73,
+    "y5": 20.54,
+    "y10": 18.99,
+    "sip5": 10.17,
+    "r3": 20.15,
+    "r3p": 96.9,
+    "r3mn": -4.21,
+    "r5": 19.25,
+    "vol": 16.82,
+    "dd": -35.32,
+    "ddd": "2020-04-03",
+    "sh": 0.91,
+    "so": 1.1,
+    "eq": 99.08,
+    "dt": 0.92,
+    "cash": 0.91,
+    "l": 22.87,
+    "m": 66.09,
+    "sml": 11.04,
+    "t5": 13.42,
+    "t10": 23.9,
+    "hold": 101,
+    "pe": 29.53,
+    "pb": 3.97,
+    "turn": 74.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 28.73
+      },
+      {
+        "s": "Industrials",
+        "w": 16.94
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 16.37
+      },
+      {
+        "s": "Healthcare",
+        "w": 11.44
+      },
+      {
+        "s": "Technology",
+        "w": 9.86
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 5.76
+      }
+    ]
+  },
+  {
+    "code": 148921,
+    "name": "Aditya Birla Sun Life Multi-Cap Fund",
+    "full": "Aditya Birla Sun Life Multi-Cap Fund-Direct Growth",
+    "house": "Aditya Birla Sun Life",
+    "cat": "multi_cap",
+    "nav": 22.95,
+    "navd": "2026-08-11",
+    "yrs": 5.25,
+    "incept": "2021-05-10",
+    "aum": 7181.55,
+    "ter": 1.02,
+    "mgr": "Mahesh Patil",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1%, if redeemed within 90 days.",
+    "y1": 12.89,
+    "y3": 15.93,
+    "y5": 14.66,
+    "y10": null,
+    "sip5": 7.5,
+    "r3": 18.0,
+    "r3p": 100.0,
+    "r3mn": 13.64,
+    "r5": 14.52,
+    "vol": 13.96,
+    "dd": -19.95,
+    "ddd": "2025-02-28",
+    "sh": 0.68,
+    "so": 0.83,
+    "eq": 97.77,
+    "dt": 2.23,
+    "cash": 2.23,
+    "l": 41.66,
+    "m": 34.43,
+    "sml": 23.91,
+    "t5": 14.79,
+    "t10": 24.77,
+    "hold": 92,
+    "pe": 30.72,
+    "pb": 4.02,
+    "turn": 15.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 21.49
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 18.62
+      },
+      {
+        "s": "Industrials",
+        "w": 14.93
+      },
+      {
+        "s": "Materials",
+        "w": 13.12
+      },
+      {
+        "s": "Technology",
+        "w": 11.3
+      },
+      {
+        "s": "Healthcare",
+        "w": 7.38
+      }
+    ]
+  },
+  {
+    "code": 149383,
+    "name": "Axis Multicap Fund",
+    "full": "Axis Multicap Fund - Direct Growth",
+    "house": "Axis",
+    "cat": "multi_cap",
+    "nav": 20.82,
+    "navd": "2026-08-11",
+    "yrs": 4.63,
+    "incept": "2021-12-23",
+    "aum": 10973.14,
+    "ter": 1.1,
+    "mgr": "Anupam Tiwari",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption w",
+    "y1": 13.46,
+    "y3": 21.74,
+    "y5": null,
+    "y10": null,
+    "sip5": null,
+    "r3": 22.56,
+    "r3p": 100.0,
+    "r3mn": 18.52,
+    "r5": null,
+    "vol": 13.99,
+    "dd": -18.08,
+    "ddd": "2025-02-28",
+    "sh": 1.09,
+    "so": 1.39,
+    "eq": 98.77,
+    "dt": 1.23,
+    "cash": -0.01,
+    "l": 46.65,
+    "m": 28.04,
+    "sml": 25.31,
+    "t5": 17.17,
+    "t10": 26.63,
+    "hold": 110,
+    "pe": 32.76,
+    "pb": 4.28,
+    "turn": 57.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 27.66
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 20.3
+      },
+      {
+        "s": "Industrials",
+        "w": 13.94
+      },
+      {
+        "s": "Healthcare",
+        "w": 11.8
+      },
+      {
+        "s": "Technology",
+        "w": 9.88
+      },
+      {
+        "s": "Materials",
+        "w": 5.94
+      }
+    ]
+  },
+  {
+    "code": 149368,
+    "name": "HDFC Multi Cap Fund",
+    "full": "HDFC Multi Cap Fund - Growth Option - Direct Plan",
+    "house": "HDFC",
+    "cat": "multi_cap",
+    "nav": 20.25,
+    "navd": "2026-08-11",
+    "yrs": 4.67,
+    "incept": "2021-12-10",
+    "aum": 20582.74,
+    "ter": 0.94,
+    "mgr": "Gopal Agrawal",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1% if redeemed within 1 year.",
+    "y1": 5.02,
+    "y3": 14.45,
+    "y5": null,
+    "y10": null,
+    "sip5": null,
+    "r3": 20.73,
+    "r3p": 100.0,
+    "r3mn": 13.35,
+    "r5": null,
+    "vol": 14.68,
+    "dd": -20.2,
+    "ddd": "2025-03-03",
+    "sh": 0.54,
+    "so": 0.67,
+    "eq": 98.92,
+    "dt": 0.61,
+    "cash": 0.61,
+    "l": 46.95,
+    "m": 23.54,
+    "sml": 29.51,
+    "t5": 14.85,
+    "t10": 23.89,
+    "hold": 124,
+    "pe": 26.22,
+    "pb": 3.59,
+    "turn": 44.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 27.83
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 19.38
+      },
+      {
+        "s": "Industrials",
+        "w": 12.09
+      },
+      {
+        "s": "Technology",
+        "w": 11.77
+      },
+      {
+        "s": "Healthcare",
+        "w": 9.33
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 7.17
+      }
+    ]
+  },
+  {
+    "code": 151290,
+    "name": "HSBC Multi Cap Fund",
+    "full": "HSBC Multi Cap Fund - Direct - Growth",
+    "house": "HSBC",
+    "cat": "multi_cap",
+    "nav": 21.29,
+    "navd": "2026-08-11",
+    "yrs": 3.52,
+    "incept": "2023-02-03",
+    "aum": 5914.0,
+    "ter": 0.79,
+    "mgr": "Neelotpal Sahai",
+    "risk": "Very High",
+    "sip": 500.0,
+    "load": "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption w",
+    "y1": 12.63,
+    "y3": 20.84,
+    "y5": null,
+    "y10": null,
+    "sip5": null,
+    "r3": 21.73,
+    "r3p": 100.0,
+    "r3mn": 19.43,
+    "r5": null,
+    "vol": 15.25,
+    "dd": -20.07,
+    "ddd": "2025-02-28",
+    "sh": 0.94,
+    "so": 1.13,
+    "eq": 98.38,
+    "dt": 1.62,
+    "cash": 1.62,
+    "l": 48.3,
+    "m": 29.39,
+    "sml": 22.31,
+    "t5": 12.74,
+    "t10": 22.53,
+    "hold": 100,
+    "pe": 31.36,
+    "pb": 4.36,
+    "turn": 49.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 25.56
+      },
+      {
+        "s": "Industrials",
+        "w": 19.24
+      },
+      {
+        "s": "Healthcare",
+        "w": 11.52
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 10.76
+      },
+      {
+        "s": "Materials",
+        "w": 10.46
+      },
+      {
+        "s": "Consumer Staples",
+        "w": 7.58
+      }
+    ]
+  },
+  {
+    "code": 120599,
+    "name": "ICICI Prudential Multicap Fund",
+    "full": "ICICI Prudential Multicap Fund - Direct Plan -  Growth",
+    "house": "ICICI Prudential",
+    "cat": "multi_cap",
+    "nav": 985.51,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 18769.03,
+    "ter": 1.03,
+    "mgr": "Atul Patel, George Heber Joseph",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1%, if redeemed within 1 month.",
+    "y1": 13.18,
+    "y3": 18.55,
+    "y5": 16.81,
+    "y10": 15.54,
+    "sip5": 8.56,
+    "r3": 17.07,
+    "r3p": 96.9,
+    "r3mn": -5.87,
+    "r5": 16.17,
+    "vol": 15.4,
+    "dd": -38.88,
+    "ddd": "2020-03-23",
+    "sh": 0.78,
+    "so": 0.95,
+    "eq": 98.08,
+    "dt": 1.92,
+    "cash": 1.92,
+    "l": 45.84,
+    "m": 24.97,
+    "sml": 29.18,
+    "t5": 14.03,
+    "t10": 24.55,
+    "hold": 166,
+    "pe": 28.53,
+    "pb": 3.83,
+    "turn": 45.0,
+    "sec": [
+      {
+        "s": "Materials",
+        "w": 28.96
+      },
+      {
+        "s": "Industrials",
+        "w": 20.01
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 18.0
+      },
+      {
+        "s": "Financial",
+        "w": 17.81
+      },
+      {
+        "s": "Healthcare",
+        "w": 3.77
+      },
+      {
+        "s": "Real Estate",
+        "w": 3.69
+      }
+    ]
+  },
+  {
+    "code": 149185,
+    "name": "Kotak Multicap Fund",
+    "full": "Kotak Multicap Fund-Direct Plan-Growth",
+    "house": "Kotak Mahindra",
+    "cat": "multi_cap",
+    "nav": 21.81,
+    "navd": "2026-08-11",
+    "yrs": 4.85,
+    "incept": "2021-10-06",
+    "aum": 29274.39,
+    "ter": 0.68,
+    "mgr": "Abhishek Bisen",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load for units in excess of 10% of the investment,1% will be charged for redemption w",
+    "y1": 11.42,
+    "y3": 19.44,
+    "y5": null,
+    "y10": null,
+    "sip5": null,
+    "r3": 24.28,
+    "r3p": 100.0,
+    "r3mn": 18.6,
+    "r5": null,
+    "vol": 15.63,
+    "dd": -21.0,
+    "ddd": "2025-03-03",
+    "sh": 0.83,
+    "so": 1.01,
+    "eq": 99.25,
+    "dt": 0.75,
+    "cash": 0.49,
+    "l": 40.86,
+    "m": 32.61,
+    "sml": 26.53,
+    "t5": 18.2,
+    "t10": 32.62,
+    "hold": 77,
+    "pe": 17.79,
+    "pb": 2.31,
+    "turn": 45.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 30.97
+      },
+      {
+        "s": "Technology",
+        "w": 16.96
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 13.71
+      },
+      {
+        "s": "Industrials",
+        "w": 11.76
+      },
+      {
+        "s": "Consumer Staples",
+        "w": 7.76
+      },
+      {
+        "s": "Materials",
+        "w": 7.17
+      }
+    ]
+  },
+  {
+    "code": 141226,
+    "name": "Mahindra Manulife Multi Cap Fund",
+    "full": "Mahindra Manulife Multi Cap Fund - Direct Plan -Growth",
+    "house": "Mahindra Manulife",
+    "cat": "multi_cap",
+    "nav": 46.49,
+    "navd": "2026-08-11",
+    "yrs": 9.23,
+    "incept": "2017-05-18",
+    "aum": 7184.31,
+    "ter": 0.96,
+    "mgr": "Ratish Varier",
+    "risk": "Very High",
+    "sip": 500.0,
+    "load": "Exit load of 1% if redeemed within 3 months.",
+    "y1": 15.63,
+    "y3": 19.33,
+    "y5": 17.87,
+    "y10": null,
+    "sip5": 8.99,
+    "r3": 22.0,
+    "r3p": 100.0,
+    "r3mn": 1.12,
+    "r5": 22.31,
+    "vol": 17.11,
+    "dd": -34.44,
+    "ddd": "2020-03-23",
+    "sh": 0.75,
+    "so": 0.86,
+    "eq": 90.47,
+    "dt": 9.53,
+    "cash": 9.53,
+    "l": 37.88,
+    "m": 36.16,
+    "sml": 25.97,
+    "t5": 15.89,
+    "t10": 27.7,
+    "hold": 82,
+    "pe": 26.51,
+    "pb": 3.79,
+    "turn": 170.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 22.23
+      },
+      {
+        "s": "Materials",
+        "w": 19.38
+      },
+      {
+        "s": "Healthcare",
+        "w": 15.74
+      },
+      {
+        "s": "Industrials",
+        "w": 12.15
+      },
+      {
+        "s": "Technology",
+        "w": 9.26
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 8.41
+      }
+    ]
+  },
+  {
+    "code": 118650,
+    "name": "Nippon India Multi Cap Fund Growth Plan",
+    "full": "Nippon India Multi Cap Fund - Direct Plan Growth Plan - Growth Option",
+    "house": "Nippon India",
+    "cat": "multi_cap",
+    "nav": 340.87,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 55587.0,
+    "ter": 0.87,
+    "mgr": "Sailesh Raj Bhan",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "For units more than 10% of the investments, an exit load of 1% if redeemed within 12 month",
+    "y1": 5.15,
+    "y3": 15.91,
+    "y5": 19.87,
+    "y10": 16.28,
+    "sip5": 8.15,
+    "r3": 17.35,
+    "r3p": 92.2,
+    "r3mn": -6.45,
+    "r5": 16.57,
+    "vol": 16.8,
+    "dd": -42.75,
+    "ddd": "2020-03-23",
+    "sh": 0.56,
+    "so": 0.68,
+    "eq": 98.69,
+    "dt": 1.31,
+    "cash": 1.31,
+    "l": 45.7,
+    "m": 27.0,
+    "sml": 27.29,
+    "t5": 21.92,
+    "t10": 31.57,
+    "hold": 123,
+    "pe": 27.43,
+    "pb": 3.96,
+    "turn": 89.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 26.52
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 19.48
+      },
+      {
+        "s": "Industrials",
+        "w": 13.88
+      },
+      {
+        "s": "Technology",
+        "w": 9.86
+      },
+      {
+        "s": "Healthcare",
+        "w": 9.69
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 8.55
+      }
+    ]
+  },
+  {
+    "code": 120823,
+    "name": "quant Multi Cap Fund",
+    "full": "quant Multi Cap Fund-GROWTH OPTION-Direct Plan",
+    "house": "quant",
+    "cat": "multi_cap",
+    "nav": 736.07,
+    "navd": "2026-08-11",
+    "yrs": 13.59,
+    "incept": "2013-01-07",
+    "aum": 7716.92,
+    "ter": 0.98,
+    "mgr": "Sanjeev Sharma",
+    "risk": "Very High",
+    "sip": 1000.0,
+    "load": "Exit load of 1%, if redeemed within 15 days.",
+    "y1": 12.11,
+    "y3": 12.09,
+    "y5": 13.44,
+    "y10": 18.34,
+    "sip5": 5.61,
+    "r3": 20.91,
+    "r3p": 99.2,
+    "r3mn": -1.71,
+    "r5": 21.22,
+    "vol": 17.19,
+    "dd": -36.26,
+    "ddd": "2020-03-23",
+    "sh": 0.32,
+    "so": 0.39,
+    "eq": 99.0,
+    "dt": 1.0,
+    "cash": -3.99,
+    "l": 42.81,
+    "m": 24.72,
+    "sml": 32.47,
+    "t5": 40.98,
+    "t10": 58.81,
+    "hold": 70,
+    "pe": 24.83,
+    "pb": 2.38,
+    "turn": 0.0,
+    "sec": [
+      {
+        "s": "Consumer Discretionary",
+        "w": 15.38
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 15.15
+      },
+      {
+        "s": "Financial",
+        "w": 14.33
+      },
+      {
+        "s": "Healthcare",
+        "w": 12.59
+      },
+      {
+        "s": "Technology",
+        "w": 11.67
+      },
+      {
+        "s": "Industrials",
+        "w": 11.25
+      }
+    ]
+  },
+  {
+    "code": 147946,
+    "name": "BANDHAN SMALL CAP FUND",
+    "full": "BANDHAN SMALL CAP FUND - DIRECT PLAN GROWTH",
+    "house": "Bandhan",
+    "cat": "small_cap",
+    "nav": 57.13,
+    "navd": "2026-08-11",
+    "yrs": 6.46,
+    "incept": "2020-02-26",
+    "aum": 31103.03,
+    "ter": 0.58,
+    "mgr": "Anoop Bhaskar",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1%, if redeemed within 1 year.",
+    "y1": 14.82,
+    "y3": 27.43,
+    "y5": 20.91,
+    "y10": null,
+    "sip5": 12.09,
+    "r3": 31.22,
+    "r3p": 100.0,
+    "r3mn": 25.2,
+    "r5": 29.5,
+    "vol": 17.31,
+    "dd": -24.34,
+    "ddd": "2022-06-20",
+    "sh": 1.21,
+    "so": 1.41,
+    "eq": 90.15,
+    "dt": 9.86,
+    "cash": 9.79,
+    "l": 6.54,
+    "m": 11.3,
+    "sml": 82.17,
+    "t5": 18.38,
+    "t10": 26.14,
+    "hold": 259,
+    "pe": 17.98,
+    "pb": 2.24,
+    "turn": 14.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 25.61
+      },
+      {
+        "s": "Materials",
+        "w": 15.82
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 13.35
+      },
+      {
+        "s": "Healthcare",
+        "w": 9.91
+      },
+      {
+        "s": "Technology",
+        "w": 8.9
+      },
+      {
+        "s": "Industrials",
+        "w": 8.69
+      }
+    ]
+  },
+  {
+    "code": 119212,
+    "name": "DSP Small Cap Fund",
+    "full": "DSP Small Cap Fund - Direct Plan - Growth",
+    "house": "DSP",
+    "cat": "small_cap",
+    "nav": 253.04,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 20220.75,
+    "ter": 0.81,
+    "mgr": "Vinit Sambre, Jay Kothari",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1% if redeemed less than 12 months",
+    "y1": 20.17,
+    "y3": 18.95,
+    "y5": 19.3,
+    "y10": 17.47,
+    "sip5": 9.77,
+    "r3": 22.21,
+    "r3p": 93.0,
+    "r3mn": -11.75,
+    "r5": 20.04,
+    "vol": 16.56,
+    "dd": -49.06,
+    "ddd": "2020-03-24",
+    "sh": 0.75,
+    "so": 0.88,
+    "eq": 87.36,
+    "dt": 12.64,
+    "cash": 12.64,
+    "l": 0.0,
+    "m": 4.21,
+    "sml": 95.79,
+    "t5": 27.45,
+    "t10": 38.11,
+    "hold": 83,
+    "pe": 30.25,
+    "pb": 3.87,
+    "turn": 6.0,
+    "sec": [
+      {
+        "s": "Consumer Discretionary",
+        "w": 28.62
+      },
+      {
+        "s": "Materials",
+        "w": 21.46
+      },
+      {
+        "s": "Industrials",
+        "w": 17.93
+      },
+      {
+        "s": "Healthcare",
+        "w": 10.63
+      },
+      {
+        "s": "Financial",
+        "w": 9.76
+      },
+      {
+        "s": "Consumer Staples",
+        "w": 5.87
+      }
+    ]
+  },
+  {
+    "code": 130503,
+    "name": "HDFC Small Cap Fund",
+    "full": "HDFC Small Cap Fund - Growth Option - Direct Plan",
+    "house": "HDFC",
+    "cat": "small_cap",
+    "nav": 163.51,
+    "navd": "2026-08-11",
+    "yrs": 12.11,
+    "incept": "2014-06-30",
+    "aum": 41679.0,
+    "ter": 0.76,
+    "mgr": "Chirag Setalvad",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1% if redeemed within 1 year",
+    "y1": 3.66,
+    "y3": 13.48,
+    "y5": 17.14,
+    "y10": 18.43,
+    "sip5": 7.45,
+    "r3": 20.41,
+    "r3p": 94.6,
+    "r3mn": -7.06,
+    "r5": 19.32,
+    "vol": 16.48,
+    "dd": -48.26,
+    "ddd": "2020-03-24",
+    "sh": 0.42,
+    "so": 0.49,
+    "eq": 90.02,
+    "dt": 9.98,
+    "cash": 9.98,
+    "l": 4.23,
+    "m": 9.27,
+    "sml": 86.5,
+    "t5": 23.52,
+    "t10": 34.39,
+    "hold": 85,
+    "pe": 21.44,
+    "pb": 2.92,
+    "turn": 6.0,
+    "sec": [
+      {
+        "s": "Industrials",
+        "w": 24.52
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 22.2
+      },
+      {
+        "s": "Healthcare",
+        "w": 13.71
+      },
+      {
+        "s": "Financial",
+        "w": 13.63
+      },
+      {
+        "s": "Materials",
+        "w": 8.44
+      },
+      {
+        "s": "Technology",
+        "w": 7.98
+      }
+    ]
+  },
+  {
+    "code": 145137,
+    "name": "Invesco India Smallcap Fund",
+    "full": "Invesco India Smallcap Fund - Direct Plan - Growth",
+    "house": "Invesco",
+    "cat": "small_cap",
+    "nav": 54.4,
+    "navd": "2026-08-11",
+    "yrs": 7.77,
+    "incept": "2018-11-02",
+    "aum": 14474.79,
+    "ter": 0.64,
+    "mgr": "Taher Badshah",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load for units in excess of 10% of the investment, 1% will be charged for redemption ",
+    "y1": 19.22,
+    "y3": 25.05,
+    "y5": 21.77,
+    "y10": null,
+    "sip5": 11.59,
+    "r3": 29.05,
+    "r3p": 100.0,
+    "r3mn": 21.8,
+    "r5": 29.4,
+    "vol": 18.22,
+    "dd": -37.66,
+    "ddd": "2020-03-24",
+    "sh": 1.02,
+    "so": 1.15,
+    "eq": 94.14,
+    "dt": 5.86,
+    "cash": 5.86,
+    "l": 7.06,
+    "m": 33.54,
+    "sml": 59.41,
+    "t5": 22.13,
+    "t10": 37.35,
+    "hold": 69,
+    "pe": 42.64,
+    "pb": 4.48,
+    "turn": 49.0,
+    "sec": [
+      {
+        "s": "Healthcare",
+        "w": 20.49
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 19.86
+      },
+      {
+        "s": "Financial",
+        "w": 18.84
+      },
+      {
+        "s": "Industrials",
+        "w": 13.22
+      },
+      {
+        "s": "Technology",
+        "w": 10.76
+      },
+      {
+        "s": "Materials",
+        "w": 10.12
+      }
+    ]
+  },
+  {
+    "code": 120164,
+    "name": "Kotak-Small Cap Fund",
+    "full": "Kotak-Small Cap Fund - Growth - Direct",
+    "house": "Kotak Mahindra",
+    "cat": "small_cap",
+    "nav": 328.01,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 18932.78,
+    "ter": 0.63,
+    "mgr": "Pankaj Tibrewal",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load for units in excess of 10% of the investment,1% will be charged for redemption w",
+    "y1": 9.71,
+    "y3": 14.18,
+    "y5": 14.98,
+    "y10": 17.89,
+    "sip5": 6.81,
+    "r3": 21.6,
+    "r3p": 96.1,
+    "r3mn": -7.72,
+    "r5": 20.94,
+    "vol": 15.41,
+    "dd": -40.61,
+    "ddd": "2020-03-24",
+    "sh": 0.5,
+    "so": 0.59,
+    "eq": 99.76,
+    "dt": 0.24,
+    "cash": 0.24,
+    "l": 8.17,
+    "m": 14.15,
+    "sml": 77.68,
+    "t5": 18.56,
+    "t10": 29.52,
+    "hold": 80,
+    "pe": 33.51,
+    "pb": 4.13,
+    "turn": 31.0,
+    "sec": [
+      {
+        "s": "Healthcare",
+        "w": 21.38
+      },
+      {
+        "s": "Industrials",
+        "w": 19.24
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 17.88
+      },
+      {
+        "s": "Financial",
+        "w": 16.83
+      },
+      {
+        "s": "Materials",
+        "w": 10.71
+      },
+      {
+        "s": "Technology",
+        "w": 5.98
+      }
+    ]
+  },
+  {
+    "code": 118778,
+    "name": "Nippon India Small Cap Fund Growth Plan",
+    "full": "Nippon India Small Cap Fund - Direct Plan Growth Plan - Growth Option",
+    "house": "Nippon India",
+    "cat": "small_cap",
+    "nav": 208.64,
+    "navd": "2026-08-11",
+    "yrs": 13.6,
+    "incept": "2013-01-02",
+    "aum": 78956.77,
+    "ter": 0.7,
+    "mgr": "Samir Rachh, Dhrumil Shah",
+    "risk": "Very High",
+    "sip": 100.0,
+    "load": "Exit load of 1% if redeemed within 1 year.",
+    "y1": 12.39,
+    "y3": 17.47,
+    "y5": 20.71,
+    "y10": 21.96,
+    "sip5": 9.17,
+    "r3": 25.79,
+    "r3p": 95.3,
+    "r3mn": -6.7,
+    "r5": 24.4,
+    "vol": 17.34,
+    "dd": -48.58,
+    "ddd": "2020-03-24",
+    "sh": 0.63,
+    "so": 0.74,
+    "eq": 97.26,
+    "dt": 2.74,
+    "cash": 2.73,
+    "l": 12.82,
+    "m": 15.86,
+    "sml": 71.33,
+    "t5": 10.19,
+    "t10": 16.35,
+    "hold": 254,
+    "pe": 27.67,
+    "pb": 3.51,
+    "turn": 32.0,
+    "sec": [
+      {
+        "s": "Industrials",
+        "w": 23.86
+      },
+      {
+        "s": "Financial",
+        "w": 17.17
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 15.26
+      },
+      {
+        "s": "Materials",
+        "w": 13.72
+      },
+      {
+        "s": "Healthcare",
+        "w": 9.98
+      },
+      {
+        "s": "Consumer Staples",
+        "w": 9.25
+      }
+    ]
+  },
+  {
+    "code": 125497,
+    "name": "SBI Small Cap Fund",
+    "full": "SBI Small Cap Fund - Direct Plan - Growth",
+    "house": "SBI",
+    "cat": "small_cap",
+    "nav": 213.46,
+    "navd": "2026-08-11",
+    "yrs": 12.73,
+    "incept": "2013-11-18",
+    "aum": 39954.73,
+    "ter": 0.74,
+    "mgr": "Rama Iyer Srinivasan",
+    "risk": "Very High",
+    "sip": 500.0,
+    "load": "Exit load of 1% if redeemed within 1 year",
+    "y1": 10.51,
+    "y3": 13.61,
+    "y5": 16.01,
+    "y10": 19.51,
+    "sip5": 6.81,
+    "r3": 22.34,
+    "r3p": 100.0,
+    "r3mn": 1.16,
+    "r5": 21.51,
+    "vol": 15.16,
+    "dd": -40.26,
+    "ddd": "2020-03-24",
+    "sh": 0.47,
+    "so": 0.57,
+    "eq": 89.95,
+    "dt": 10.05,
+    "cash": 8.79,
+    "l": 0.0,
+    "m": 7.7,
+    "sml": 92.3,
+    "t5": 20.91,
+    "t10": 33.71,
+    "hold": 75,
+    "pe": 31.73,
+    "pb": 3.97,
+    "turn": 32.0,
+    "sec": [
+      {
+        "s": "Consumer Discretionary",
+        "w": 26.31
+      },
+      {
+        "s": "Industrials",
+        "w": 19.5
+      },
+      {
+        "s": "Financial",
+        "w": 17.42
+      },
+      {
+        "s": "Materials",
+        "w": 17.18
+      },
+      {
+        "s": "Technology",
+        "w": 7.74
+      },
+      {
+        "s": "Consumer Staples",
+        "w": 5.69
+      }
+    ]
+  },
+  {
+    "code": 120828,
+    "name": "quant Small Cap Fund",
+    "full": "quant Small Cap Fund - Growth Option - Direct Plan",
+    "house": "quant",
+    "cat": "small_cap",
+    "nav": 315.55,
+    "navd": "2026-08-11",
+    "yrs": 13.59,
+    "incept": "2013-01-07",
+    "aum": 34068.88,
+    "ter": 0.94,
+    "mgr": "Pushpa Rai",
+    "risk": "Very High",
+    "sip": 1000.0,
+    "load": "Exit load of 1% if redeemed within 1 year",
+    "y1": 16.71,
+    "y3": 18.97,
+    "y5": 20.41,
+    "y10": 20.85,
+    "sip5": 9.74,
+    "r3": 21.18,
+    "r3p": 89.8,
+    "r3mn": -14.62,
+    "r5": 21.07,
+    "vol": 20.26,
+    "dd": -51.6,
+    "ddd": "2020-03-24",
+    "sh": 0.62,
+    "so": 0.65,
+    "eq": 93.83,
+    "dt": 6.17,
+    "cash": 3.95,
+    "l": 25.02,
+    "m": 0.53,
+    "sml": 74.45,
+    "t5": 27.62,
+    "t10": 42.86,
+    "hold": 111,
+    "pe": 31.05,
+    "pb": 2.92,
+    "turn": 0.0,
+    "sec": [
+      {
+        "s": "Financial",
+        "w": 22.54
+      },
+      {
+        "s": "Consumer Discretionary",
+        "w": 17.45
+      },
+      {
+        "s": "Materials",
+        "w": 13.15
+      },
+      {
+        "s": "Healthcare",
+        "w": 12.6
+      },
+      {
+        "s": "Energy & Utilities",
+        "w": 11.8
+      },
+      {
+        "s": "Technology",
+        "w": 10.22
+      }
+    ]
+  }
+]

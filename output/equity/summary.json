@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-08-12T17:31:00",
+  "sources": {
+    "amfi": "https://portal.amfiindia.com/spages/NAVAll.txt",
+    "mfapi": "https://api.mfapi.in/mf",
+    "groww_search": "https://groww.in/v1/api/search/v1/derived/scheme",
+    "groww_allocation": "https://groww.in/v1/api/data/mf/web/v1/scheme/portfolio/{code}/stats",
+    "mfdata.in": "unavailable"
+  },
+  "funds": 221,
+  "by_category": {
+    "flexi_cap": 45,
+    "large_mid_cap": 37,
+    "large_cap": 36,
+    "small_cap": 36,
+    "mid_cap": 34,
+    "multi_cap": 33
+  },
+  "with_nav_history": 218,
+  "with_allocation": 219,
+  "with_5y_cagr": 134,
+  "with_10y_cagr": 98,
+  "gaps": [
+    "Stock-level holdings list is not in AMFI/mfapi; Groww stats give allocation % and sectors, not the full stock list.",
+    "mfdata.in (holdings API) was down with HTTP 522 at build time.",
+    "Expense ratio / AUM come from Groww and may be missing for a few AMFI codes."
+  ]
+}

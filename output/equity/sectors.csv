@@ -1,0 +1,1976 @@
+scheme_code,sector,weight_pct
+154043,Energy & Utilities,10.48
+154043,Consumer Staples,4.23
+154043,Technology,5.66
+154043,Real Estate,1.9
+154043,Materials,8.46
+154043,Financial,32.01
+154043,Healthcare,8.29
+154043,Industrials,15.35
+154043,Consumer Discretionary,13.62
+151796,Energy & Utilities,8.52
+151796,Consumer Staples,5.75
+151796,Technology,17.63
+151796,Materials,6.6
+151796,Financial,30.62
+151796,Healthcare,8.95
+151796,Industrials,16.94
+151796,Consumer Discretionary,4.98
+150387,Energy & Utilities,8.99
+150387,Consumer Staples,4.48
+150387,Technology,11.29
+150387,Materials,8.35
+150387,Financial,27.72
+150387,Healthcare,8.69
+150387,Industrials,22.9
+150387,Consumer Discretionary,7.57
+148404,Energy & Utilities,6.87
+148404,Consumer Staples,5.36
+148404,Technology,9.77
+148404,Real Estate,0.03
+148404,Materials,9.27
+148404,Financial,24.45
+148404,Healthcare,11.45
+148404,Industrials,18.8
+148404,Consumer Discretionary,14.01
+118424,Energy & Utilities,10.35
+118424,Consumer Staples,6.22
+118424,Technology,18.11
+118424,Real Estate,0.88
+118424,Materials,6.93
+118424,Financial,37.25
+118424,Healthcare,5.81
+118424,Industrials,2.88
+118424,Diversified,0.47
+118424,Consumer Discretionary,11.11
+151895,Energy & Utilities,6.62
+151895,Consumer Staples,3.9
+151895,Technology,4.49
+151895,Real Estate,0.4
+151895,Materials,8.18
+151895,Financial,23.23
+151895,Healthcare,13.8
+151895,Industrials,16.5
+151895,Consumer Discretionary,22.88
+120564,Energy & Utilities,5.28
+120564,Consumer Staples,7.39
+120564,Technology,12.34
+120564,Real Estate,0.48
+120564,Materials,11.09
+120564,Financial,30.3
+120564,Healthcare,7.62
+120564,Industrials,10.34
+120564,Consumer Discretionary,15.15
+118275,Energy & Utilities,5.27
+118275,Consumer Staples,5.98
+118275,Technology,13.0
+118275,Real Estate,0.71
+118275,Materials,5.43
+118275,Financial,32.99
+118275,Healthcare,7.74
+118275,Industrials,13.17
+118275,Consumer Discretionary,15.71
+119076,Energy & Utilities,4.41
+119076,Consumer Staples,4.47
+119076,Technology,12.91
+119076,Real Estate,0.69
+119076,Materials,4.34
+119076,Financial,45.33
+119076,Healthcare,7.38
+119076,Industrials,6.88
+119076,Diversified,0.7
+119076,Consumer Discretionary,12.89
+118955,Energy & Utilities,5.39
+118955,Consumer Staples,2.22
+118955,Technology,12.79
+118955,Real Estate,0.52
+118955,Materials,4.47
+118955,Financial,37.37
+118955,Healthcare,12.5
+118955,Industrials,9.48
+118955,Consumer Discretionary,15.26
+120046,Energy & Utilities,6.54
+120046,Consumer Staples,8.13
+120046,Technology,9.55
+120046,Real Estate,0.84
+120046,Materials,8.48
+120046,Financial,30.03
+120046,Healthcare,5.94
+120046,Industrials,18.05
+120046,Consumer Discretionary,12.45
+152135,Energy & Utilities,7.11
+152135,Consumer Staples,3.57
+152135,Technology,9.55
+152135,Real Estate,2.48
+152135,Materials,6.07
+152135,Financial,30.36
+152135,Healthcare,4.88
+152135,Industrials,22.02
+152135,Consumer Discretionary,13.96
+148990,Consumer Staples,6.16
+148990,Technology,10.44
+148990,Materials,3.46
+148990,Financial,22.47
+148990,Healthcare,3.41
+148990,Industrials,16.22
+148990,Diversified,0.29
+148990,Consumer Discretionary,37.55
+149763,Energy & Utilities,1.59
+149763,Consumer Staples,1.1
+149763,Technology,13.2
+149763,Real Estate,3.72
+149763,Materials,2.38
+149763,Financial,30.17
+149763,Healthcare,12.38
+149763,Industrials,16.1
+149763,Consumer Discretionary,19.35
+120492,Energy & Utilities,6.99
+120492,Consumer Staples,3.35
+120492,Technology,9.39
+120492,Materials,7.85
+120492,Financial,31.42
+120492,Healthcare,6.71
+120492,Industrials,13.46
+120492,Consumer Discretionary,20.83
+120166,Energy & Utilities,7.86
+120166,Consumer Staples,2.01
+120166,Technology,12.32
+120166,Materials,16.64
+120166,Financial,31.49
+120166,Healthcare,5.6
+120166,Industrials,14.7
+120166,Consumer Discretionary,9.39
+120264,Energy & Utilities,3.87
+120264,Consumer Staples,3.97
+120264,Technology,11.34
+120264,Real Estate,2.36
+120264,Materials,10.2
+120264,Financial,25.74
+120264,Healthcare,13.28
+120264,Industrials,13.14
+120264,Diversified,1.72
+120264,Consumer Discretionary,14.37
+151412,Energy & Utilities,8.14
+151412,Consumer Staples,2.52
+151412,Technology,10.29
+151412,Real Estate,2.3
+151412,Materials,8.0
+151412,Financial,32.79
+151412,Healthcare,10.27
+151412,Industrials,13.62
+151412,Consumer Discretionary,12.07
+141925,Energy & Utilities,2.43
+141925,Technology,9.41
+141925,Real Estate,0.08
+141925,Materials,9.03
+141925,Financial,31.58
+141925,Healthcare,10.56
+141925,Industrials,15.95
+141925,Diversified,3.58
+141925,Consumer Discretionary,17.38
+129046,Energy & Utilities,4.49
+129046,Technology,19.93
+129046,Financial,21.74
+129046,Healthcare,8.71
+129046,Industrials,24.71
+129046,Diversified,2.75
+129046,Consumer Discretionary,17.68
+151917,Energy & Utilities,4.38
+151917,Consumer Staples,18.26
+151917,Technology,6.87
+151917,Materials,4.72
+151917,Financial,16.21
+151917,Healthcare,26.67
+151917,Industrials,4.66
+151917,Consumer Discretionary,18.23
+153738,Consumer Staples,9.08
+153738,Technology,2.97
+153738,Real Estate,2.73
+153738,Materials,13.68
+153738,Financial,22.12
+153738,Healthcare,25.03
+153738,Industrials,14.53
+153738,Consumer Discretionary,9.85
+149094,Energy & Utilities,8.54
+149094,Consumer Staples,5.77
+149094,Technology,13.88
+149094,Real Estate,0.89
+149094,Materials,5.73
+149094,Financial,30.02
+149094,Healthcare,6.19
+149094,Industrials,15.08
+149094,Diversified,0.58
+149094,Consumer Discretionary,13.32
+143793,Energy & Utilities,2.07
+143793,Consumer Staples,5.24
+143793,Technology,11.91
+143793,Materials,8.2
+143793,Financial,32.8
+143793,Healthcare,7.22
+143793,Industrials,14.18
+143793,Consumer Discretionary,18.4
+154225,Energy & Utilities,3.25
+154225,Consumer Staples,8.96
+154225,Real Estate,2.74
+154225,Materials,15.78
+154225,Financial,20.81
+154225,Healthcare,17.37
+154225,Industrials,11.72
+154225,Consumer Discretionary,19.38
+133839,Energy & Utilities,4.68
+133839,Consumer Staples,4.89
+133839,Technology,13.97
+133839,Real Estate,1.15
+133839,Materials,8.88
+133839,Financial,29.38
+133839,Healthcare,10.55
+133839,Industrials,13.87
+133839,Consumer Discretionary,12.63
+122639,Energy & Utilities,9.47
+122639,Consumer Staples,8.13
+122639,Technology,27.08
+122639,Real Estate,0.01
+122639,Materials,6.71
+122639,Financial,31.74
+122639,Healthcare,5.25
+122639,Industrials,0.34
+122639,Consumer Discretionary,11.26
+119718,Energy & Utilities,4.12
+119718,Consumer Staples,2.75
+119718,Technology,9.59
+119718,Real Estate,1.04
+119718,Materials,7.65
+119718,Financial,34.33
+119718,Healthcare,12.11
+119718,Industrials,12.46
+119718,Consumer Discretionary,15.96
+140353,Energy & Utilities,6.73
+140353,Consumer Staples,6.41
+140353,Technology,10.07
+140353,Real Estate,2.1
+140353,Materials,7.54
+140353,Financial,33.47
+140353,Healthcare,7.49
+140353,Industrials,10.69
+140353,Consumer Discretionary,15.49
+149450,Consumer Staples,14.43
+149450,Materials,19.66
+149450,Financial,28.76
+149450,Healthcare,5.81
+149450,Industrials,26.2
+149450,Diversified,2.69
+149450,Consumer Discretionary,2.46
+118535,Energy & Utilities,9.42
+118535,Consumer Staples,5.27
+118535,Technology,14.34
+118535,Real Estate,1.13
+118535,Materials,7.83
+118535,Financial,30.25
+118535,Healthcare,6.76
+118535,Industrials,15.27
+118535,Consumer Discretionary,9.73
+150571,Energy & Utilities,7.7
+150571,Consumer Staples,4.43
+150571,Technology,13.84
+150571,Real Estate,0.53
+150571,Materials,5.79
+150571,Financial,31.53
+150571,Healthcare,5.91
+150571,Industrials,20.32
+150571,Consumer Discretionary,9.94
+144905,Energy & Utilities,9.99
+144905,Consumer Staples,5.35
+144905,Technology,13.89
+144905,Materials,4.48
+144905,Financial,32.3
+144905,Healthcare,9.76
+144905,Industrials,11.94
+144905,Consumer Discretionary,12.29
+152584,Energy & Utilities,1.93
+152584,Consumer Staples,4.74
+152584,Technology,10.83
+152584,Real Estate,1.03
+152584,Materials,5.79
+152584,Financial,30.02
+152584,Healthcare,7.45
+152584,Industrials,18.8
+152584,Consumer Discretionary,19.41
+153872,Energy & Utilities,2.6
+153872,Consumer Staples,2.24
+153872,Technology,7.0
+153872,Materials,7.12
+153872,Financial,32.64
+153872,Healthcare,11.79
+153872,Industrials,19.16
+153872,Consumer Discretionary,17.46
+151379,Energy & Utilities,9.06
+151379,Consumer Staples,3.24
+151379,Technology,12.19
+151379,Real Estate,1.04
+151379,Materials,12.26
+151379,Financial,24.73
+151379,Healthcare,7.04
+151379,Industrials,15.34
+151379,Diversified,1.56
+151379,Consumer Discretionary,13.53
+144546,Energy & Utilities,9.49
+144546,Consumer Staples,6.79
+144546,Technology,11.99
+144546,Real Estate,2.79
+144546,Materials,12.42
+144546,Financial,32.53
+144546,Healthcare,6.51
+144546,Industrials,6.08
+144546,Consumer Discretionary,11.39
+153859,Energy & Utilities,12.09
+153859,Consumer Staples,5.89
+153859,Technology,12.27
+153859,Real Estate,0.22
+153859,Materials,10.53
+153859,Financial,31.33
+153859,Healthcare,4.43
+153859,Industrials,12.33
+153859,Diversified,0.04
+153859,Consumer Discretionary,10.87
+118883,Energy & Utilities,6.72
+118883,Consumer Staples,8.75
+118883,Technology,18.35
+118883,Real Estate,1.1
+118883,Materials,8.12
+118883,Financial,25.09
+118883,Healthcare,14.51
+118883,Industrials,1.51
+118883,Consumer Discretionary,15.85
+119528,Energy & Utilities,9.1
+119528,Consumer Staples,7.18
+119528,Technology,14.71
+119528,Real Estate,0.84
+119528,Materials,6.86
+119528,Financial,35.75
+119528,Healthcare,5.37
+119528,Industrials,5.16
+119528,Consumer Discretionary,15.02
+149104,Energy & Utilities,5.75
+149104,Consumer Staples,3.65
+149104,Technology,12.75
+149104,Real Estate,1.2
+149104,Materials,7.39
+149104,Financial,30.82
+149104,Healthcare,9.59
+149104,Industrials,15.73
+149104,Consumer Discretionary,13.13
+120662,Consumer Staples,5.11
+120662,Technology,22.94
+120662,Materials,6.88
+120662,Financial,23.76
+120662,Healthcare,12.76
+120662,Industrials,6.2
+120662,Diversified,0.69
+120662,Consumer Discretionary,21.64
+153543,Energy & Utilities,7.96
+153543,Technology,9.14
+153543,Materials,6.43
+153543,Financial,35.49
+153543,Healthcare,16.01
+153543,Industrials,16.03
+153543,Consumer Discretionary,8.93
+120465,Energy & Utilities,3.86
+120465,Consumer Staples,4.11
+120465,Technology,14.06
+120465,Materials,5.94
+120465,Financial,35.77
+120465,Healthcare,11.99
+120465,Industrials,8.54
+120465,Consumer Discretionary,15.74
+150346,Energy & Utilities,4.67
+150346,Consumer Staples,5.43
+150346,Technology,14.78
+150346,Real Estate,0.69
+150346,Materials,8.46
+150346,Financial,34.49
+150346,Healthcare,10.19
+150346,Industrials,9.01
+150346,Consumer Discretionary,12.28
+119292,Energy & Utilities,5.29
+119292,Consumer Staples,3.41
+119292,Technology,9.73
+119292,Real Estate,1.67
+119292,Materials,5.63
+119292,Financial,31.88
+119292,Healthcare,12.88
+119292,Industrials,15.4
+119292,Consumer Discretionary,14.11
+120843,Energy & Utilities,23.33
+120843,Technology,17.65
+120843,Real Estate,2.89
+120843,Materials,9.54
+120843,Financial,16.85
+120843,Healthcare,10.57
+120843,Industrials,5.05
+120843,Consumer Discretionary,14.13
+152783,Energy & Utilities,5.32
+152783,Consumer Staples,3.89
+152783,Technology,9.97
+152783,Real Estate,3.22
+152783,Materials,13.43
+152783,Financial,32.39
+152783,Healthcare,12.01
+152783,Industrials,2.75
+152783,Consumer Discretionary,17.03
+148980,Energy & Utilities,7.09
+148980,Consumer Staples,5.21
+148980,Technology,8.2
+148980,Materials,12.27
+148980,Financial,37.13
+148980,Healthcare,2.8
+148980,Industrials,18.04
+148980,Consumer Discretionary,9.26
+150187,Energy & Utilities,12.01
+150187,Consumer Staples,7.04
+150187,Technology,15.2
+150187,Materials,6.94
+150187,Financial,29.58
+150187,Healthcare,6.08
+150187,Industrials,14.55
+150187,Consumer Discretionary,8.6
+118479,Energy & Utilities,9.58
+118479,Consumer Staples,5.55
+118479,Technology,11.84
+118479,Real Estate,1.81
+118479,Materials,7.46
+118479,Financial,33.48
+118479,Healthcare,7.27
+118479,Industrials,8.69
+118479,Consumer Discretionary,14.32
+118269,Energy & Utilities,6.61
+118269,Consumer Staples,7.54
+118269,Technology,14.84
+118269,Real Estate,0.42
+118269,Materials,4.96
+118269,Financial,36.45
+118269,Healthcare,7.05
+118269,Industrials,9.14
+118269,Consumer Discretionary,13.0
+119250,Energy & Utilities,13.68
+119250,Consumer Staples,6.92
+119250,Technology,11.83
+119250,Real Estate,1.98
+119250,Materials,5.6
+119250,Financial,35.29
+119250,Healthcare,3.66
+119250,Industrials,8.51
+119250,Consumer Discretionary,12.54
+118617,Energy & Utilities,9.94
+118617,Consumer Staples,6.11
+118617,Technology,14.12
+118617,Materials,7.43
+118617,Financial,27.11
+118617,Healthcare,13.25
+118617,Industrials,11.3
+118617,Consumer Discretionary,10.74
+119133,Energy & Utilities,2.93
+119133,Consumer Staples,1.07
+119133,Technology,16.31
+119133,Materials,5.51
+119133,Financial,39.59
+119133,Healthcare,7.0
+119133,Industrials,14.18
+119133,Consumer Discretionary,13.4
+118531,Energy & Utilities,7.14
+118531,Consumer Staples,6.79
+118531,Technology,15.87
+118531,Real Estate,0.95
+118531,Materials,4.58
+118531,Financial,38.01
+118531,Healthcare,7.57
+118531,Industrials,10.3
+118531,Consumer Discretionary,8.79
+148353,Energy & Utilities,11.61
+148353,Consumer Staples,3.3
+148353,Technology,8.89
+148353,Real Estate,0.78
+148353,Materials,7.4
+148353,Financial,39.89
+148353,Healthcare,5.16
+148353,Industrials,12.24
+148353,Consumer Discretionary,10.74
+120586,Energy & Utilities,11.77
+120586,Consumer Staples,6.21
+120586,Technology,10.25
+120586,Real Estate,1.38
+120586,Materials,8.88
+120586,Financial,32.15
+120586,Healthcare,5.31
+120586,Industrials,9.68
+120586,Diversified,0.76
+120586,Consumer Discretionary,13.61
+119018,Energy & Utilities,7.05
+119018,Consumer Staples,5.39
+119018,Technology,12.64
+119018,Real Estate,0.36
+119018,Materials,3.67
+119018,Financial,39.15
+119018,Healthcare,10.71
+119018,Industrials,7.83
+119018,Consumer Discretionary,13.18
+120030,Energy & Utilities,8.06
+120030,Consumer Staples,2.97
+120030,Technology,14.97
+120030,Materials,1.94
+120030,Financial,37.93
+120030,Healthcare,7.55
+120030,Industrials,15.72
+120030,Consumer Discretionary,10.85
+120392,Energy & Utilities,0.47
+120392,Consumer Staples,2.25
+120392,Technology,17.46
+120392,Real Estate,1.73
+120392,Materials,6.73
+120392,Financial,34.6
+120392,Healthcare,9.28
+120392,Industrials,15.19
+120392,Consumer Discretionary,12.29
+154307,Energy & Utilities,11.68
+154307,Consumer Staples,7.29
+154307,Technology,13.09
+154307,Materials,10.5
+154307,Financial,35.95
+154307,Healthcare,2.54
+154307,Industrials,8.12
+154307,Consumer Discretionary,10.82
+120490,Energy & Utilities,6.9
+120490,Consumer Staples,5.44
+120490,Technology,11.48
+120490,Real Estate,1.1
+120490,Materials,7.19
+120490,Financial,32.03
+120490,Healthcare,8.12
+120490,Industrials,14.95
+120490,Consumer Discretionary,12.79
+120152,Energy & Utilities,10.85
+120152,Consumer Staples,6.07
+120152,Technology,12.47
+120152,Real Estate,0.85
+120152,Materials,10.19
+120152,Financial,32.53
+120152,Healthcare,6.31
+120152,Industrials,10.15
+120152,Consumer Discretionary,10.58
+152354,Energy & Utilities,11.99
+152354,Consumer Staples,2.28
+152354,Technology,15.73
+152354,Real Estate,1.34
+152354,Materials,3.22
+152354,Financial,37.85
+152354,Healthcare,4.03
+152354,Industrials,11.09
+152354,Consumer Discretionary,12.47
+146549,Energy & Utilities,9.33
+146549,Consumer Staples,5.34
+146549,Technology,17.55
+146549,Real Estate,1.38
+146549,Materials,5.47
+146549,Financial,35.7
+146549,Healthcare,5.03
+146549,Industrials,6.32
+146549,Consumer Discretionary,13.88
+120267,Energy & Utilities,1.44
+120267,Consumer Staples,6.21
+120267,Technology,12.52
+120267,Materials,6.36
+120267,Financial,36.49
+120267,Healthcare,5.99
+120267,Industrials,15.03
+120267,Consumer Discretionary,15.95
+118825,Energy & Utilities,10.07
+118825,Consumer Staples,6.45
+118825,Technology,15.37
+118825,Real Estate,0.97
+118825,Materials,7.82
+118825,Financial,34.94
+118825,Healthcare,3.87
+118825,Industrials,8.24
+118825,Diversified,0.7
+118825,Consumer Discretionary,11.57
+118633,Energy & Utilities,8.92
+118633,Consumer Staples,12.21
+118633,Technology,11.99
+118633,Materials,2.55
+118633,Financial,34.48
+118633,Healthcare,7.5
+118633,Industrials,7.05
+118633,Diversified,0.69
+118633,Consumer Discretionary,14.6
+118632,Energy & Utilities,8.92
+118632,Consumer Staples,12.21
+118632,Technology,11.99
+118632,Materials,2.55
+118632,Financial,34.48
+118632,Healthcare,7.5
+118632,Industrials,7.05
+118632,Diversified,0.69
+118632,Consumer Discretionary,14.6
+138312,Energy & Utilities,8.12
+138312,Consumer Staples,5.93
+138312,Technology,14.92
+138312,Real Estate,1.2
+138312,Materials,7.07
+138312,Financial,35.73
+138312,Healthcare,6.86
+138312,Industrials,7.67
+138312,Consumer Discretionary,12.5
+154155,Energy & Utilities,12.53
+154155,Consumer Staples,6.64
+154155,Technology,13.1
+154155,Real Estate,0.56
+154155,Materials,9.26
+154155,Financial,33.22
+154155,Healthcare,5.42
+154155,Industrials,8.83
+154155,Diversified,0.24
+154155,Consumer Discretionary,10.18
+153239,Energy & Utilities,19.29
+153239,Consumer Staples,3.62
+153239,Materials,23.32
+153239,Financial,5.85
+153239,Healthcare,14.54
+153239,Industrials,19.97
+153239,Consumer Discretionary,13.41
+148507,Energy & Utilities,7.0
+148507,Consumer Staples,7.05
+148507,Technology,16.8
+148507,Materials,4.19
+148507,Financial,37.09
+148507,Healthcare,2.0
+148507,Industrials,8.82
+148507,Consumer Discretionary,17.05
+141248,Energy & Utilities,8.67
+141248,Consumer Staples,3.54
+141248,Technology,13.03
+141248,Materials,10.18
+141248,Financial,35.19
+141248,Healthcare,7.58
+141248,Industrials,11.1
+141248,Consumer Discretionary,10.71
+119598,Energy & Utilities,6.64
+119598,Consumer Staples,6.69
+119598,Technology,10.13
+119598,Materials,12.58
+119598,Financial,34.7
+119598,Healthcare,7.09
+119598,Industrials,14.18
+119598,Consumer Discretionary,7.99
+118870,Energy & Utilities,9.74
+118870,Consumer Staples,9.19
+118870,Technology,18.24
+118870,Real Estate,2.79
+118870,Materials,4.01
+118870,Financial,27.04
+118870,Healthcare,10.3
+118870,Industrials,3.31
+118870,Consumer Discretionary,15.39
+119160,Energy & Utilities,10.92
+119160,Consumer Staples,6.33
+119160,Technology,18.48
+119160,Materials,8.74
+119160,Financial,33.94
+119160,Healthcare,6.09
+119160,Industrials,7.01
+119160,Diversified,0.8
+119160,Consumer Discretionary,7.69
+120656,Energy & Utilities,7.84
+120656,Consumer Staples,4.34
+120656,Technology,18.38
+120656,Real Estate,0.88
+120656,Materials,6.45
+120656,Financial,36.58
+120656,Healthcare,4.15
+120656,Industrials,8.34
+120656,Consumer Discretionary,13.04
+119436,Energy & Utilities,3.0
+119436,Consumer Staples,2.61
+119436,Technology,10.04
+119436,Real Estate,2.0
+119436,Materials,10.37
+119436,Financial,21.9
+119436,Healthcare,10.03
+119436,Industrials,20.52
+119436,Consumer Discretionary,19.53
+150797,Energy & Utilities,5.52
+150797,Consumer Staples,6.19
+150797,Technology,16.58
+150797,Materials,7.84
+150797,Financial,38.16
+150797,Healthcare,7.8
+150797,Industrials,7.27
+150797,Consumer Discretionary,10.64
+150440,Energy & Utilities,15.74
+150440,Technology,31.44
+150440,Real Estate,5.02
+150440,Materials,8.95
+150440,Financial,19.61
+150440,Healthcare,9.69
+150440,Consumer Discretionary,9.55
+145110,Energy & Utilities,3.64
+145110,Others,1.4
+145110,Consumer Staples,4.54
+145110,Technology,14.5
+145110,Real Estate,1.16
+145110,Materials,5.99
+145110,Financial,29.65
+145110,Healthcare,8.71
+145110,Industrials,12.26
+145110,Diversified,1.51
+145110,Consumer Discretionary,16.64
+152408,Energy & Utilities,5.86
+152408,Consumer Staples,5.0
+152408,Technology,3.05
+152408,Real Estate,1.14
+152408,Materials,12.09
+152408,Financial,28.37
+152408,Healthcare,10.64
+152408,Industrials,12.29
+152408,Consumer Discretionary,21.56
+119350,Energy & Utilities,11.19
+119350,Consumer Staples,6.02
+119350,Technology,5.19
+119350,Materials,6.46
+119350,Financial,26.86
+119350,Healthcare,15.51
+119350,Industrials,8.59
+119350,Consumer Discretionary,20.18
+148474,Energy & Utilities,8.9
+148474,Consumer Staples,5.12
+148474,Technology,7.65
+148474,Materials,8.76
+148474,Financial,31.32
+148474,Healthcare,5.6
+148474,Industrials,20.45
+148474,Consumer Discretionary,12.19
+118419,Energy & Utilities,7.88
+118419,Consumer Staples,4.6
+118419,Technology,13.05
+118419,Real Estate,1.03
+118419,Materials,6.05
+118419,Financial,36.09
+118419,Healthcare,9.72
+118419,Industrials,14.61
+118419,Diversified,1.48
+118419,Consumer Discretionary,5.5
+118278,Energy & Utilities,3.63
+118278,Consumer Staples,5.76
+118278,Technology,11.76
+118278,Real Estate,1.05
+118278,Materials,7.1
+118278,Financial,26.99
+118278,Healthcare,7.25
+118278,Industrials,10.74
+118278,Diversified,1.03
+118278,Consumer Discretionary,24.69
+130498,Energy & Utilities,6.96
+130498,Consumer Staples,3.2
+130498,Technology,11.83
+130498,Real Estate,2.29
+130498,Materials,8.11
+130498,Financial,30.47
+130498,Healthcare,13.82
+130498,Industrials,10.85
+130498,Diversified,0.08
+130498,Consumer Discretionary,12.39
+140175,Energy & Utilities,3.34
+140175,Consumer Staples,1.73
+140175,Technology,12.67
+140175,Real Estate,3.05
+140175,Materials,10.37
+140175,Financial,32.11
+140175,Healthcare,6.56
+140175,Industrials,17.02
+140175,Consumer Discretionary,13.15
+152941,Energy & Utilities,5.45
+152941,Consumer Staples,3.54
+152941,Technology,6.91
+152941,Real Estate,3.45
+152941,Materials,5.11
+152941,Financial,30.73
+152941,Healthcare,6.8
+152941,Industrials,25.22
+152941,Diversified,1.41
+152941,Consumer Discretionary,11.39
+118510,Energy & Utilities,5.02
+118510,Consumer Staples,7.38
+118510,Technology,17.57
+118510,Real Estate,3.04
+118510,Materials,6.03
+118510,Financial,31.75
+118510,Healthcare,6.91
+118510,Industrials,12.33
+118510,Consumer Discretionary,9.97
+146772,Energy & Utilities,1.83
+146772,Consumer Staples,4.13
+146772,Technology,3.28
+146772,Materials,5.04
+146772,Financial,39.18
+146772,Healthcare,9.15
+146772,Industrials,21.73
+146772,Diversified,0.01
+146772,Consumer Discretionary,15.64
+119218,Energy & Utilities,7.56
+119218,Consumer Staples,3.16
+119218,Technology,11.27
+119218,Real Estate,1.91
+119218,Materials,10.02
+119218,Financial,40.47
+119218,Healthcare,9.31
+119218,Industrials,5.64
+119218,Diversified,0.15
+119218,Consumer Discretionary,10.52
+120596,Energy & Utilities,6.29
+120596,Consumer Staples,2.01
+120596,Real Estate,3.01
+120596,Materials,19.21
+120596,Financial,27.14
+120596,Healthcare,2.27
+120596,Industrials,20.45
+120596,Diversified,0.17
+120596,Consumer Discretionary,19.45
+152821,Energy & Utilities,6.6
+152821,Consumer Staples,2.3
+152821,Technology,4.56
+152821,Real Estate,2.58
+152821,Materials,8.59
+152821,Financial,35.04
+152821,Healthcare,10.53
+152821,Industrials,17.43
+152821,Diversified,0.95
+152821,Consumer Discretionary,11.41
+153629,Energy & Utilities,7.46
+153629,Consumer Staples,5.39
+153629,Technology,10.07
+153629,Real Estate,1.09
+153629,Materials,7.46
+153629,Financial,27.44
+153629,Healthcare,7.91
+153629,Industrials,17.62
+153629,Consumer Discretionary,15.56
+120357,Energy & Utilities,1.34
+120357,Technology,13.88
+120357,Real Estate,7.77
+120357,Materials,5.85
+120357,Financial,26.15
+120357,Healthcare,19.99
+120357,Industrials,13.52
+120357,Consumer Discretionary,11.5
+120158,Energy & Utilities,7.47
+120158,Consumer Staples,1.04
+120158,Technology,13.34
+120158,Real Estate,0.92
+120158,Materials,13.44
+120158,Financial,29.6
+120158,Healthcare,8.51
+120158,Industrials,17.51
+120158,Consumer Discretionary,8.18
+118834,Energy & Utilities,7.58
+118834,Consumer Staples,1.94
+118834,Technology,10.53
+118834,Real Estate,1.57
+118834,Materials,10.73
+118834,Financial,30.84
+118834,Healthcare,11.79
+118834,Industrials,11.05
+118834,Consumer Discretionary,13.97
+147840,Energy & Utilities,5.77
+147840,Consumer Staples,3.27
+147840,Technology,9.55
+147840,Real Estate,2.22
+147840,Materials,9.09
+147840,Financial,31.41
+147840,Healthcare,14.26
+147840,Industrials,14.91
+147840,Consumer Discretionary,9.53
+133710,Energy & Utilities,2.74
+133710,Consumer Staples,2.98
+133710,Technology,8.64
+133710,Real Estate,2.33
+133710,Materials,2.02
+133710,Financial,24.56
+133710,Healthcare,11.32
+133710,Industrials,26.16
+133710,Consumer Discretionary,19.26
+147704,Energy & Utilities,7.11
+147704,Technology,11.43
+147704,Materials,12.7
+147704,Financial,20.99
+147704,Healthcare,5.7
+147704,Industrials,21.5
+147704,Diversified,3.88
+147704,Consumer Discretionary,16.69
+135677,Energy & Utilities,2.8
+135677,Consumer Staples,2.95
+135677,Technology,11.78
+135677,Real Estate,2.91
+135677,Materials,5.46
+135677,Financial,38.82
+135677,Healthcare,10.04
+135677,Industrials,15.94
+135677,Diversified,0.63
+135677,Consumer Discretionary,8.66
+152382,Energy & Utilities,6.94
+152382,Consumer Staples,3.57
+152382,Technology,14.44
+152382,Real Estate,1.17
+152382,Materials,7.98
+152382,Financial,27.72
+152382,Healthcare,10.28
+152382,Industrials,12.55
+152382,Consumer Discretionary,15.36
+118678,Energy & Utilities,6.43
+118678,Consumer Staples,7.12
+118678,Technology,10.43
+118678,Materials,4.17
+118678,Financial,25.56
+118678,Healthcare,9.44
+118678,Industrials,13.8
+118678,Diversified,0.51
+118678,Consumer Discretionary,22.54
+153534,Energy & Utilities,11.77
+153534,Consumer Staples,2.16
+153534,Technology,3.21
+153534,Materials,12.73
+153534,Financial,16.05
+153534,Healthcare,17.11
+153534,Industrials,27.91
+153534,Diversified,4.41
+153534,Consumer Discretionary,4.65
+154433,Energy & Utilities,1.67
+154433,Consumer Staples,4.85
+154433,Technology,12.34
+154433,Real Estate,3.32
+154433,Materials,3.48
+154433,Financial,28.31
+154433,Healthcare,11.56
+154433,Industrials,18.89
+154433,Consumer Discretionary,15.57
+119566,Consumer Staples,5.13
+119566,Technology,15.51
+119566,Real Estate,3.7
+119566,Materials,5.4
+119566,Financial,22.93
+119566,Healthcare,2.33
+119566,Industrials,27.11
+119566,Consumer Discretionary,17.89
+118675,Energy & Utilities,6.43
+118675,Consumer Staples,7.12
+118675,Technology,10.43
+118675,Materials,4.17
+118675,Financial,25.56
+118675,Healthcare,9.44
+118675,Industrials,13.8
+118675,Diversified,0.51
+118675,Consumer Discretionary,22.54
+119721,Energy & Utilities,5.37
+119721,Consumer Staples,7.67
+119721,Technology,10.31
+119721,Materials,15.68
+119721,Financial,22.66
+119721,Healthcare,13.8
+119721,Industrials,11.54
+119721,Consumer Discretionary,12.97
+154381,Energy & Utilities,3.38
+154381,Consumer Staples,9.94
+154381,Technology,9.88
+154381,Real Estate,1.72
+154381,Materials,13.74
+154381,Financial,18.13
+154381,Healthcare,13.3
+154381,Industrials,11.26
+154381,Diversified,2.25
+154381,Consumer Discretionary,16.39
+119202,Energy & Utilities,6.79
+119202,Consumer Staples,7.45
+119202,Technology,9.98
+119202,Real Estate,4.79
+119202,Materials,13.21
+119202,Financial,34.26
+119202,Healthcare,6.64
+119202,Industrials,7.37
+119202,Diversified,3.08
+119202,Consumer Discretionary,6.43
+147750,Energy & Utilities,3.77
+147750,Consumer Staples,3.59
+147750,Technology,9.07
+147750,Real Estate,2.37
+147750,Materials,8.22
+147750,Financial,27.15
+147750,Healthcare,10.77
+147750,Industrials,21.48
+147750,Diversified,1.06
+147750,Consumer Discretionary,12.52
+120665,Energy & Utilities,8.98
+120665,Consumer Staples,5.89
+120665,Technology,15.6
+120665,Real Estate,2.62
+120665,Materials,9.09
+120665,Financial,32.8
+120665,Healthcare,8.54
+120665,Industrials,7.89
+120665,Consumer Discretionary,8.6
+152226,Energy & Utilities,4.89
+152226,Consumer Staples,5.88
+152226,Technology,14.4
+152226,Real Estate,2.03
+152226,Materials,7.98
+152226,Financial,34.17
+152226,Healthcare,11.68
+152226,Industrials,7.87
+152226,Diversified,0.59
+152226,Consumer Discretionary,10.52
+119620,Energy & Utilities,2.82
+119620,Consumer Staples,6.05
+119620,Technology,6.69
+119620,Real Estate,2.23
+119620,Materials,12.49
+119620,Financial,26.71
+119620,Healthcare,10.34
+119620,Industrials,21.76
+119620,Diversified,1.33
+119620,Consumer Discretionary,9.59
+120826,Energy & Utilities,17.56
+120826,Consumer Staples,1.9
+120826,Technology,19.66
+120826,Real Estate,3.29
+120826,Materials,17.1
+120826,Financial,5.48
+120826,Healthcare,14.59
+120826,Industrials,5.82
+120826,Diversified,1.21
+120826,Consumer Discretionary,13.39
+120505,Energy & Utilities,4.2
+120505,Consumer Staples,4.85
+120505,Technology,6.98
+120505,Real Estate,2.88
+120505,Materials,9.86
+120505,Financial,21.6
+120505,Healthcare,10.93
+120505,Industrials,13.35
+120505,Diversified,3.04
+120505,Consumer Discretionary,22.3
+150404,Energy & Utilities,1.22
+150404,Consumer Staples,4.01
+150404,Technology,11.73
+150404,Real Estate,3.68
+150404,Materials,8.51
+150404,Financial,19.82
+150404,Healthcare,15.91
+150404,Industrials,16.32
+150404,Diversified,3.72
+150404,Consumer Discretionary,15.08
+153728,Energy & Utilities,5.06
+153728,Consumer Staples,2.17
+153728,Technology,5.1
+153728,Materials,11.95
+153728,Financial,24.06
+153728,Healthcare,16.39
+153728,Industrials,20.51
+153728,Consumer Discretionary,14.77
+150212,Energy & Utilities,6.62
+150212,Consumer Staples,3.1
+150212,Technology,8.04
+150212,Real Estate,2.85
+150212,Materials,8.04
+150212,Financial,27.05
+150212,Healthcare,13.65
+150212,Industrials,19.51
+150212,Diversified,1.26
+150212,Consumer Discretionary,9.87
+150817,Energy & Utilities,7.42
+150817,Consumer Staples,5.94
+150817,Technology,14.85
+150817,Real Estate,3.32
+150817,Materials,7.3
+150817,Financial,22.52
+150817,Healthcare,8.32
+150817,Industrials,18.31
+150817,Diversified,2.0
+150817,Consumer Discretionary,10.03
+151036,Energy & Utilities,3.03
+151036,Consumer Staples,3.89
+151036,Technology,5.83
+151036,Materials,2.88
+151036,Financial,31.42
+151036,Healthcare,10.35
+151036,Industrials,22.64
+151036,Diversified,2.58
+151036,Consumer Discretionary,17.38
+140228,Energy & Utilities,3.82
+140228,Consumer Staples,5.61
+140228,Technology,7.69
+140228,Real Estate,4.24
+140228,Materials,9.29
+140228,Financial,28.98
+140228,Healthcare,9.96
+140228,Industrials,13.76
+140228,Consumer Discretionary,16.63
+119071,Energy & Utilities,2.69
+119071,Consumer Staples,1.39
+119071,Technology,13.03
+119071,Real Estate,3.67
+119071,Materials,15.0
+119071,Financial,25.75
+119071,Healthcare,8.73
+119071,Industrials,13.87
+119071,Diversified,1.14
+119071,Consumer Discretionary,14.72
+153326,Energy & Utilities,1.21
+153326,Consumer Staples,7.99
+153326,Technology,4.86
+153326,Real Estate,2.72
+153326,Financial,25.91
+153326,Healthcare,12.21
+153326,Industrials,17.98
+153326,Diversified,2.76
+153326,Consumer Discretionary,24.36
+118533,Energy & Utilities,4.07
+118533,Consumer Staples,1.23
+118533,Technology,9.99
+118533,Real Estate,5.15
+118533,Materials,9.74
+118533,Financial,24.93
+118533,Healthcare,8.95
+118533,Industrials,17.19
+118533,Consumer Discretionary,18.76
+118989,Energy & Utilities,3.44
+118989,Consumer Staples,10.39
+118989,Technology,12.11
+118989,Materials,5.6
+118989,Financial,29.29
+118989,Healthcare,15.44
+118989,Industrials,9.27
+118989,Diversified,0.43
+118989,Consumer Discretionary,14.04
+148733,Energy & Utilities,3.46
+148733,Consumer Staples,5.17
+148733,Technology,5.9
+148733,Real Estate,1.08
+148733,Materials,12.42
+148733,Financial,27.94
+148733,Healthcare,11.81
+148733,Industrials,17.77
+148733,Diversified,2.09
+148733,Consumer Discretionary,12.35
+120381,Energy & Utilities,4.89
+120381,Technology,1.72
+120381,Real Estate,6.01
+120381,Materials,25.54
+120381,Financial,21.39
+120381,Healthcare,0.55
+120381,Industrials,21.3
+120381,Diversified,5.04
+120381,Consumer Discretionary,13.58
+150815,Energy & Utilities,2.17
+150815,Consumer Staples,6.34
+150815,Technology,7.72
+150815,Real Estate,0.99
+150815,Materials,10.94
+150815,Financial,21.77
+150815,Healthcare,12.09
+150815,Industrials,19.03
+150815,Diversified,1.1
+150815,Consumer Discretionary,17.86
+120403,Energy & Utilities,2.3
+120403,Consumer Staples,0.2
+120403,Technology,9.2
+120403,Real Estate,9.03
+120403,Materials,6.59
+120403,Financial,27.84
+120403,Healthcare,20.37
+120403,Industrials,7.56
+120403,Consumer Discretionary,16.93
+152002,Energy & Utilities,3.46
+152002,Consumer Staples,3.7
+152002,Technology,11.78
+152002,Real Estate,1.67
+152002,Materials,17.08
+152002,Financial,16.49
+152002,Healthcare,6.05
+152002,Industrials,27.62
+152002,Consumer Discretionary,12.14
+142110,Energy & Utilities,2.31
+142110,Consumer Staples,5.56
+142110,Technology,5.68
+142110,Real Estate,1.57
+142110,Materials,7.66
+142110,Financial,31.36
+142110,Healthcare,10.18
+142110,Industrials,25.19
+142110,Consumer Discretionary,10.48
+147445,Energy & Utilities,4.26
+147445,Consumer Staples,0.8
+147445,Technology,9.2
+147445,Real Estate,3.17
+147445,Materials,13.19
+147445,Financial,26.23
+147445,Healthcare,12.53
+147445,Industrials,13.29
+147445,Diversified,1.45
+147445,Consumer Discretionary,15.88
+119775,Energy & Utilities,1.32
+119775,Consumer Staples,4.46
+119775,Technology,13.93
+119775,Real Estate,2.13
+119775,Materials,11.6
+119775,Financial,27.3
+119775,Healthcare,15.85
+119775,Industrials,11.9
+119775,Diversified,1.93
+119775,Consumer Discretionary,9.57
+127042,Energy & Utilities,3.94
+127042,Consumer Staples,0.63
+127042,Technology,22.85
+127042,Real Estate,2.69
+127042,Materials,0.95
+127042,Financial,28.85
+127042,Healthcare,2.29
+127042,Industrials,19.78
+127042,Consumer Discretionary,18.01
+118665,Energy & Utilities,5.76
+118665,Consumer Staples,4.59
+118665,Technology,9.86
+118665,Real Estate,1.2
+118665,Materials,4.45
+118665,Financial,28.73
+118665,Healthcare,11.44
+118665,Industrials,16.94
+118665,Diversified,0.66
+118665,Consumer Discretionary,16.37
+118668,Energy & Utilities,5.76
+118668,Consumer Staples,4.59
+118668,Technology,9.86
+118668,Real Estate,1.2
+118668,Materials,4.45
+118668,Financial,28.73
+118668,Healthcare,11.44
+118668,Industrials,16.94
+118668,Diversified,0.66
+118668,Consumer Discretionary,16.37
+125307,Energy & Utilities,3.42
+125307,Consumer Staples,4.73
+125307,Technology,8.94
+125307,Real Estate,3.47
+125307,Materials,10.1
+125307,Financial,23.64
+125307,Healthcare,12.07
+125307,Industrials,17.38
+125307,Diversified,0.52
+125307,Consumer Discretionary,15.75
+154210,Energy & Utilities,3.66
+154210,Consumer Staples,5.65
+154210,Technology,9.19
+154210,Real Estate,3.49
+154210,Materials,4.73
+154210,Financial,23.35
+154210,Healthcare,11.54
+154210,Industrials,20.3
+154210,Diversified,0.8
+154210,Consumer Discretionary,17.28
+119716,Energy & Utilities,7.37
+119716,Consumer Staples,5.53
+119716,Technology,3.58
+119716,Real Estate,3.75
+119716,Materials,23.53
+119716,Financial,22.11
+119716,Healthcare,9.98
+119716,Industrials,15.29
+119716,Diversified,1.9
+119716,Consumer Discretionary,6.97
+118872,Energy & Utilities,7.21
+118872,Consumer Staples,0.86
+118872,Technology,24.88
+118872,Materials,16.62
+118872,Financial,11.35
+118872,Healthcare,9.44
+118872,Industrials,12.39
+118872,Consumer Discretionary,17.26
+119581,Energy & Utilities,3.62
+119581,Consumer Staples,4.13
+119581,Technology,7.45
+119581,Real Estate,2.98
+119581,Materials,8.72
+119581,Financial,24.58
+119581,Healthcare,10.93
+119581,Industrials,18.48
+119581,Consumer Discretionary,19.09
+119178,Energy & Utilities,5.1
+119178,Consumer Staples,2.78
+119178,Technology,9.61
+119178,Real Estate,2.81
+119178,Materials,11.0
+119178,Financial,25.78
+119178,Healthcare,12.13
+119178,Industrials,15.59
+119178,Diversified,0.61
+119178,Consumer Discretionary,14.59
+148921,Energy & Utilities,5.09
+148921,Consumer Staples,6.13
+148921,Technology,11.3
+148921,Real Estate,0.96
+148921,Materials,13.12
+148921,Financial,21.49
+148921,Healthcare,7.38
+148921,Industrials,14.93
+148921,Diversified,0.97
+148921,Consumer Discretionary,18.62
+149383,Energy & Utilities,3.74
+149383,Consumer Staples,4.06
+149383,Technology,9.88
+149383,Real Estate,0.92
+149383,Materials,5.94
+149383,Financial,27.66
+149383,Healthcare,11.8
+149383,Industrials,13.94
+149383,Diversified,1.75
+149383,Consumer Discretionary,20.3
+153309,Energy & Utilities,0.5
+153309,Consumer Staples,4.96
+153309,Technology,11.22
+153309,Real Estate,3.52
+153309,Materials,16.94
+153309,Financial,20.74
+153309,Healthcare,7.46
+153309,Industrials,14.66
+153309,Consumer Discretionary,20.0
+150584,Energy & Utilities,3.57
+150584,Consumer Staples,5.09
+150584,Technology,12.15
+150584,Real Estate,3.56
+150584,Materials,7.67
+150584,Financial,27.09
+150584,Healthcare,15.36
+150584,Industrials,14.06
+150584,Diversified,0.83
+150584,Consumer Discretionary,10.63
+148073,Energy & Utilities,2.4
+148073,Consumer Staples,2.46
+148073,Technology,8.93
+148073,Real Estate,3.77
+148073,Materials,9.68
+148073,Financial,24.96
+148073,Healthcare,10.5
+148073,Industrials,19.29
+148073,Diversified,1.89
+148073,Consumer Discretionary,16.13
+149303,Energy & Utilities,8.94
+149303,Consumer Staples,9.63
+149303,Technology,12.83
+149303,Real Estate,1.58
+149303,Materials,7.81
+149303,Financial,30.59
+149303,Healthcare,8.37
+149303,Industrials,7.01
+149303,Diversified,1.06
+149303,Consumer Discretionary,12.18
+119354,Energy & Utilities,5.7
+119354,Consumer Staples,5.95
+119354,Technology,11.06
+119354,Materials,9.57
+119354,Financial,30.64
+119354,Healthcare,8.56
+119354,Industrials,16.37
+119354,Consumer Discretionary,12.15
+151443,Energy & Utilities,8.43
+151443,Consumer Staples,6.43
+151443,Technology,4.24
+151443,Real Estate,0.99
+151443,Materials,6.58
+151443,Financial,21.54
+151443,Healthcare,17.42
+151443,Industrials,14.4
+151443,Consumer Discretionary,19.97
+120841,Energy & Utilities,8.88
+120841,Consumer Staples,2.54
+120841,Technology,18.72
+120841,Real Estate,4.36
+120841,Materials,15.11
+120841,Financial,9.72
+120841,Healthcare,12.38
+120841,Industrials,14.35
+120841,Consumer Discretionary,6.04
+120726,Energy & Utilities,4.29
+120726,Consumer Staples,1.52
+120726,Technology,10.77
+120726,Real Estate,2.99
+120726,Materials,10.79
+120726,Financial,25.01
+120726,Healthcare,12.47
+120726,Industrials,20.49
+120726,Consumer Discretionary,11.65
+151824,Energy & Utilities,2.87
+151824,Consumer Staples,5.62
+151824,Technology,10.48
+151824,Real Estate,0.47
+151824,Materials,5.67
+151824,Financial,29.75
+151824,Healthcare,10.21
+151824,Industrials,18.38
+151824,Consumer Discretionary,16.54
+152739,Energy & Utilities,9.85
+152739,Technology,12.62
+152739,Materials,4.3
+152739,Financial,22.07
+152739,Healthcare,11.75
+152739,Industrials,31.79
+152739,Consumer Discretionary,7.62
+152310,Energy & Utilities,2.67
+152310,Consumer Staples,6.08
+152310,Technology,8.21
+152310,Materials,9.42
+152310,Financial,29.71
+152310,Healthcare,16.05
+152310,Industrials,16.0
+152310,Diversified,1.19
+152310,Consumer Discretionary,10.65
+152094,Energy & Utilities,6.52
+152094,Consumer Staples,6.66
+152094,Technology,7.12
+152094,Real Estate,1.74
+152094,Materials,9.03
+152094,Financial,31.38
+152094,Healthcare,8.96
+152094,Industrials,12.54
+152094,Consumer Discretionary,16.05
+153034,Consumer Staples,0.9
+153034,Technology,9.86
+153034,Materials,8.48
+153034,Financial,33.47
+153034,Healthcare,8.6
+153034,Industrials,20.88
+153034,Diversified,3.78
+153034,Consumer Discretionary,14.03
+149368,Energy & Utilities,7.17
+149368,Consumer Staples,4.68
+149368,Technology,11.77
+149368,Real Estate,1.56
+149368,Materials,5.7
+149368,Financial,27.83
+149368,Healthcare,9.33
+149368,Industrials,12.09
+149368,Diversified,0.5
+149368,Consumer Discretionary,19.38
+151290,Energy & Utilities,6.07
+151290,Consumer Staples,7.58
+151290,Technology,5.79
+151290,Real Estate,1.67
+151290,Materials,10.46
+151290,Financial,25.56
+151290,Healthcare,11.52
+151290,Industrials,19.24
+151290,Diversified,2.55
+151290,Consumer Discretionary,10.76
+147183,Energy & Utilities,4.9
+147183,Consumer Staples,3.08
+147183,Technology,9.75
+147183,Real Estate,1.28
+147183,Materials,13.29
+147183,Financial,21.31
+147183,Healthcare,9.5
+147183,Industrials,23.47
+147183,Consumer Discretionary,13.42
+150659,Energy & Utilities,2.9
+150659,Consumer Staples,7.59
+150659,Technology,7.26
+150659,Real Estate,1.46
+150659,Materials,14.11
+150659,Financial,23.55
+150659,Healthcare,5.85
+150659,Industrials,19.56
+150659,Consumer Discretionary,17.71
+120599,Energy & Utilities,2.73
+120599,Technology,2.15
+120599,Real Estate,3.69
+120599,Materials,28.96
+120599,Financial,17.81
+120599,Healthcare,3.77
+120599,Industrials,20.01
+120599,Diversified,2.76
+120599,Unspecified,0.12
+120599,Consumer Discretionary,18.0
+149185,Energy & Utilities,5.27
+149185,Consumer Staples,7.76
+149185,Technology,16.96
+149185,Real Estate,1.05
+149185,Materials,7.17
+149185,Financial,30.97
+149185,Healthcare,5.34
+149185,Industrials,11.76
+149185,Consumer Discretionary,13.71
+141226,Energy & Utilities,6.91
+141226,Consumer Staples,5.92
+141226,Technology,9.26
+141226,Materials,19.38
+141226,Financial,22.23
+141226,Healthcare,15.74
+141226,Industrials,12.15
+141226,Consumer Discretionary,8.41
+151810,Energy & Utilities,5.78
+151810,Consumer Staples,2.15
+151810,Technology,10.44
+151810,Real Estate,1.3
+151810,Materials,10.26
+151810,Financial,27.46
+151810,Healthcare,11.12
+151810,Industrials,14.09
+151810,Diversified,1.21
+151810,Consumer Discretionary,16.19
+120413,Energy & Utilities,1.13
+120413,Consumer Staples,2.8
+120413,Technology,13.73
+120413,Real Estate,3.84
+120413,Materials,5.08
+120413,Financial,30.01
+120413,Healthcare,12.73
+120413,Industrials,16.08
+120413,Consumer Discretionary,14.6
+152651,Energy & Utilities,2.06
+152651,Consumer Staples,2.76
+152651,Technology,14.57
+152651,Materials,11.66
+152651,Financial,29.76
+152651,Healthcare,5.81
+152651,Industrials,18.87
+152651,Consumer Discretionary,14.49
+152815,Energy & Utilities,6.13
+152815,Consumer Staples,6.49
+152815,Technology,9.42
+152815,Real Estate,1.7
+152815,Materials,7.13
+152815,Financial,25.98
+152815,Healthcare,12.02
+152815,Industrials,16.76
+152815,Consumer Discretionary,14.37
+152847,Energy & Utilities,11.37
+152847,Consumer Staples,1.97
+152847,Technology,6.43
+152847,Materials,15.51
+152847,Financial,19.23
+152847,Healthcare,11.88
+152847,Industrials,20.37
+152847,Diversified,1.68
+152847,Consumer Discretionary,11.57
+149882,Energy & Utilities,7.68
+149882,Consumer Staples,3.73
+149882,Technology,5.59
+149882,Real Estate,0.89
+149882,Materials,24.18
+149882,Financial,18.94
+149882,Healthcare,9.91
+149882,Industrials,6.38
+149882,Consumer Discretionary,22.7
+149669,Energy & Utilities,6.52
+149669,Consumer Staples,1.34
+149669,Technology,11.14
+149669,Real Estate,1.78
+149669,Materials,5.69
+149669,Financial,25.88
+149669,Healthcare,8.1
+149669,Industrials,25.02
+149669,Consumer Discretionary,14.52
+118651,Energy & Utilities,8.55
+118651,Consumer Staples,6.13
+118651,Technology,9.86
+118651,Materials,4.98
+118651,Financial,26.52
+118651,Healthcare,9.69
+118651,Industrials,13.88
+118651,Diversified,0.92
+118651,Consumer Discretionary,19.48
+153644,Energy & Utilities,1.23
+153644,Consumer Staples,3.67
+153644,Technology,10.63
+153644,Real Estate,1.19
+153644,Materials,6.97
+153644,Financial,29.73
+153644,Healthcare,9.08
+153644,Industrials,15.21
+153644,Consumer Discretionary,22.29
+151232,Energy & Utilities,6.75
+151232,Consumer Staples,5.86
+151232,Technology,7.39
+151232,Real Estate,1.61
+151232,Materials,4.9
+151232,Financial,30.29
+151232,Healthcare,9.39
+151232,Industrials,13.43
+151232,Consumer Discretionary,20.38
+154215,Energy & Utilities,3.17
+154215,Consumer Staples,2.56
+154215,Technology,6.6
+154215,Materials,11.84
+154215,Financial,21.18
+154215,Healthcare,14.97
+154215,Industrials,21.31
+154215,Consumer Discretionary,18.37
+118650,Energy & Utilities,8.55
+118650,Consumer Staples,6.13
+118650,Technology,9.86
+118650,Materials,4.98
+118650,Financial,26.52
+118650,Healthcare,9.69
+118650,Industrials,13.88
+118650,Diversified,0.92
+118650,Consumer Discretionary,19.48
+119556,Energy & Utilities,1.6
+119556,Consumer Staples,8.98
+119556,Technology,5.93
+119556,Real Estate,2.11
+119556,Materials,13.32
+119556,Financial,17.96
+119556,Healthcare,14.77
+119556,Industrials,16.31
+119556,Diversified,1.14
+119556,Consumer Discretionary,17.89
+153515,Energy & Utilities,7.82
+153515,Consumer Staples,3.88
+153515,Technology,12.87
+153515,Real Estate,0.83
+153515,Materials,11.64
+153515,Financial,26.37
+153515,Healthcare,9.15
+153515,Industrials,17.72
+153515,Consumer Discretionary,9.71
+153612,Energy & Utilities,4.36
+153612,Consumer Staples,4.59
+153612,Technology,2.75
+153612,Real Estate,3.88
+153612,Materials,12.29
+153612,Financial,12.21
+153612,Healthcare,12.9
+153612,Industrials,23.73
+153612,Diversified,0.85
+153612,Consumer Discretionary,22.44
+150858,Energy & Utilities,2.41
+150858,Consumer Staples,4.42
+150858,Technology,9.28
+150858,Real Estate,2.76
+150858,Materials,6.8
+150858,Financial,28.33
+150858,Healthcare,9.81
+150858,Industrials,17.46
+150858,Consumer Discretionary,18.74
+152071,Energy & Utilities,3.89
+152071,Consumer Staples,5.44
+152071,Technology,12.88
+152071,Real Estate,1.54
+152071,Materials,7.21
+152071,Financial,31.84
+152071,Healthcare,13.37
+152071,Industrials,11.14
+152071,Diversified,0.26
+152071,Consumer Discretionary,12.45
+152128,Energy & Utilities,5.66
+152128,Consumer Staples,6.5
+152128,Technology,4.96
+152128,Materials,9.57
+152128,Financial,25.45
+152128,Healthcare,19.26
+152128,Industrials,16.24
+152128,Consumer Discretionary,12.35
+120823,Energy & Utilities,15.15
+120823,Others,3.92
+120823,Consumer Staples,3.7
+120823,Technology,11.67
+120823,Real Estate,2.48
+120823,Materials,9.18
+120823,Financial,14.33
+120823,Healthcare,12.59
+120823,Industrials,11.25
+120823,Diversified,0.33
+120823,Consumer Discretionary,15.38
+147946,Energy & Utilities,4.18
+147946,Consumer Staples,5.01
+147946,Technology,8.9
+147946,Real Estate,6.5
+147946,Materials,15.82
+147946,Financial,25.61
+147946,Healthcare,9.91
+147946,Industrials,8.69
+147946,Diversified,2.04
+147946,Consumer Discretionary,13.35
+125354,Energy & Utilities,1.8
+125354,Consumer Staples,5.51
+125354,Technology,5.26
+125354,Real Estate,4.05
+125354,Materials,14.5
+125354,Financial,20.89
+125354,Healthcare,15.48
+125354,Industrials,18.07
+125354,Diversified,0.52
+125354,Consumer Discretionary,13.92
+145678,Consumer Staples,4.36
+145678,Technology,8.46
+145678,Materials,7.93
+145678,Financial,18.17
+145678,Healthcare,13.28
+145678,Industrials,25.71
+145678,Diversified,1.16
+145678,Consumer Discretionary,20.93
+154063,Consumer Staples,0.55
+154063,Technology,6.96
+154063,Materials,10.37
+154063,Financial,32.06
+154063,Healthcare,8.38
+154063,Industrials,19.65
+154063,Diversified,3.12
+154063,Consumer Discretionary,18.9
+146130,Energy & Utilities,1.04
+146130,Consumer Staples,3.74
+146130,Technology,5.09
+146130,Real Estate,1.1
+146130,Materials,11.56
+146130,Financial,24.96
+146130,Healthcare,12.78
+146130,Industrials,22.96
+146130,Diversified,1.97
+146130,Consumer Discretionary,14.79
+146196,Consumer Staples,5.35
+146196,Technology,1.7
+146196,Real Estate,2.03
+146196,Materials,14.18
+146196,Financial,23.08
+146196,Healthcare,14.99
+146196,Industrials,21.56
+146196,Consumer Discretionary,17.11
+153912,Energy & Utilities,1.08
+153912,Consumer Staples,4.49
+153912,Technology,8.08
+153912,Real Estate,2.6
+153912,Materials,3.99
+153912,Financial,15.11
+153912,Healthcare,14.12
+153912,Industrials,26.87
+153912,Diversified,1.06
+153912,Consumer Discretionary,22.6
+119212,Consumer Staples,5.87
+119212,Technology,4.6
+119212,Materials,21.46
+119212,Financial,9.76
+119212,Healthcare,10.63
+119212,Industrials,17.93
+119212,Diversified,1.12
+119212,Consumer Discretionary,28.62
+151130,Energy & Utilities,1.22
+151130,Consumer Staples,4.91
+151130,Technology,1.76
+151130,Real Estate,1.8
+151130,Materials,11.96
+151130,Financial,22.46
+151130,Healthcare,13.22
+151130,Industrials,25.45
+151130,Diversified,2.21
+151130,Consumer Discretionary,15.02
+118525,Energy & Utilities,3.38
+118525,Consumer Staples,3.37
+118525,Technology,8.6
+118525,Real Estate,3.73
+118525,Materials,9.56
+118525,Financial,18.72
+118525,Healthcare,10.92
+118525,Industrials,22.38
+118525,Consumer Discretionary,19.34
+130503,Energy & Utilities,1.63
+130503,Consumer Staples,5.48
+130503,Technology,7.98
+130503,Materials,8.44
+130503,Financial,13.63
+130503,Healthcare,13.71
+130503,Industrials,24.52
+130503,Diversified,2.42
+130503,Consumer Discretionary,22.2
+147919,Energy & Utilities,3.72
+147919,Consumer Staples,4.98
+147919,Technology,1.15
+147919,Real Estate,1.13
+147919,Materials,13.62
+147919,Financial,19.52
+147919,Healthcare,15.47
+147919,Industrials,24.91
+147919,Diversified,1.48
+147919,Consumer Discretionary,14.02
+120164,Energy & Utilities,0.74
+120164,Consumer Staples,3.83
+120164,Technology,5.98
+120164,Real Estate,3.41
+120164,Materials,10.71
+120164,Financial,16.83
+120164,Healthcare,21.38
+120164,Industrials,19.24
+120164,Consumer Discretionary,17.88
+145137,Consumer Staples,1.98
+145137,Technology,10.76
+145137,Real Estate,4.73
+145137,Materials,10.12
+145137,Financial,18.84
+145137,Healthcare,20.49
+145137,Industrials,13.22
+145137,Consumer Discretionary,19.86
+120591,Energy & Utilities,2.64
+120591,Consumer Staples,1.03
+120591,Technology,2.56
+120591,Real Estate,0.59
+120591,Materials,22.98
+120591,Financial,14.03
+120591,Healthcare,9.02
+120591,Industrials,25.37
+120591,Diversified,0.74
+120591,Consumer Discretionary,21.05
+153196,Energy & Utilities,3.18
+153196,Technology,3.89
+153196,Real Estate,2.51
+153196,Materials,13.14
+153196,Financial,21.4
+153196,Healthcare,15.43
+153196,Industrials,27.24
+153196,Consumer Discretionary,13.22
+152004,Energy & Utilities,3.24
+152004,Consumer Staples,9.8
+152004,Technology,2.28
+152004,Real Estate,2.08
+152004,Materials,12.38
+152004,Financial,12.47
+152004,Healthcare,6.25
+152004,Industrials,32.19
+152004,Consumer Discretionary,19.3
+152614,Energy & Utilities,1.52
+152614,Consumer Staples,4.55
+152614,Technology,3.16
+152614,Materials,14.56
+152614,Financial,17.55
+152614,Healthcare,12.76
+152614,Industrials,24.13
+152614,Consumer Discretionary,21.78
+150915,Energy & Utilities,5.79
+150915,Consumer Staples,2.33
+150915,Technology,4.34
+150915,Materials,22.16
+150915,Financial,14.57
+150915,Healthcare,14.1
+150915,Industrials,15.31
+150915,Consumer Discretionary,21.4
+152237,Energy & Utilities,7.32
+152237,Consumer Staples,4.08
+152237,Technology,13.07
+152237,Materials,8.85
+152237,Financial,14.29
+152237,Healthcare,13.79
+152237,Industrials,9.52
+152237,Diversified,2.87
+152237,Consumer Discretionary,26.21
+152107,Energy & Utilities,1.09
+152107,Consumer Staples,3.82
+152107,Technology,7.07
+152107,Real Estate,0.02
+152107,Materials,10.36
+152107,Financial,24.76
+152107,Healthcare,9.93
+152107,Industrials,16.31
+152107,Diversified,1.93
+152107,Consumer Discretionary,24.73
+149019,Energy & Utilities,2.84
+149019,Consumer Staples,8.02
+149019,Technology,6.33
+149019,Real Estate,0.65
+149019,Materials,10.62
+149019,Financial,17.83
+149019,Healthcare,16.79
+149019,Industrials,22.38
+149019,Consumer Discretionary,14.55
+152939,Energy & Utilities,3.93
+152939,Consumer Staples,5.72
+152939,Technology,6.9
+152939,Materials,8.56
+152939,Financial,21.96
+152939,Healthcare,13.13
+152939,Industrials,15.57
+152939,Consumer Discretionary,24.23
+118777,Energy & Utilities,3.85
+118777,Consumer Staples,9.25
+118777,Technology,4.73
+118777,Real Estate,0.51
+118777,Materials,13.72
+118777,Financial,17.17
+118777,Healthcare,9.98
+118777,Industrials,23.86
+118777,Diversified,1.67
+118777,Consumer Discretionary,15.26
+118778,Energy & Utilities,3.85
+118778,Consumer Staples,9.25
+118778,Technology,4.73
+118778,Real Estate,0.51
+118778,Materials,13.72
+118778,Financial,17.17
+118778,Healthcare,9.98
+118778,Industrials,23.86
+118778,Diversified,1.67
+118778,Consumer Discretionary,15.26
+119589,Energy & Utilities,0.95
+119589,Consumer Staples,2.59
+119589,Technology,11.45
+119589,Real Estate,2.38
+119589,Materials,8.29
+119589,Financial,20.9
+119589,Healthcare,10.68
+119589,Industrials,23.32
+119589,Consumer Discretionary,19.45
+125497,Energy & Utilities,2.41
+125497,Consumer Staples,5.69
+125497,Technology,7.74
+125497,Real Estate,0.96
+125497,Materials,17.18
+125497,Financial,17.42
+125497,Healthcare,2.79
+125497,Industrials,19.5
+125497,Consumer Discretionary,26.31
+154269,Energy & Utilities,1.86
+154269,Consumer Staples,6.99
+154269,Technology,14.0
+154269,Materials,14.0
+154269,Financial,11.03
+154269,Healthcare,9.82
+154269,Industrials,15.42
+154269,Consumer Discretionary,26.88
+145206,Energy & Utilities,1.82
+145206,Consumer Staples,3.12
+145206,Technology,6.54
+145206,Real Estate,3.09
+145206,Materials,26.46
+145206,Financial,6.07
+145206,Healthcare,5.97
+145206,Industrials,23.8
+145206,Diversified,4.4
+145206,Consumer Discretionary,18.73
+148618,Energy & Utilities,3.68
+148618,Consumer Staples,4.98
+148618,Technology,8.88
+148618,Real Estate,2.25
+148618,Materials,11.36
+148618,Financial,16.32
+148618,Healthcare,17.49
+148618,Industrials,22.32
+148618,Consumer Discretionary,12.73
+129649,Energy & Utilities,1.17
+129649,Consumer Staples,2.83
+129649,Technology,2.35
+129649,Real Estate,1.6
+129649,Materials,11.84
+129649,Financial,22.29
+129649,Healthcare,13.53
+129649,Industrials,25.29
+129649,Diversified,1.07
+129649,Consumer Discretionary,18.02
+120828,Energy & Utilities,11.8
+120828,Consumer Staples,3.99
+120828,Technology,10.22
+120828,Real Estate,1.75
+120828,Materials,13.15
+120828,Financial,22.54
+120828,Healthcare,12.6
+120828,Industrials,6.51
+120828,Consumer Discretionary,17.45
